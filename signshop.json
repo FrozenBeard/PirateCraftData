@@ -4729,33 +4729,6 @@
   },
   {
     "locWorld": "PirateCraft_1",
-    "locX": -1877,
-    "locY": 67,
-    "locZ": 523,
-    "ownerName": "EthistheYeti",
-    "ownerUuid": "1241530e-00c3-4dc7-9545-e62ad122aa87",
-    "signText": [
-      "§f§lMending",
-      "§lBook"
-    ],
-    "signType": "buy",
-    "signPrice": 70.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "MENDING": 1
-          }
-        }
-      }
-    ],
-    "invInStock": false
-  },
-  {
-    "locWorld": "PirateCraft_1",
     "locX": -4146,
     "locY": 62,
     "locZ": -3462,
@@ -7390,7 +7363,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -8145,7 +8118,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -272,
+              "duration": -3250,
               "type": {
                 "id": 10
               },
@@ -8193,6 +8166,30 @@
           "customEffects": [
             {
               "amplifier": 0,
+              "duration": -272,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§f§1Blueberry §1Smoothie"
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "NIGHT_VISION",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
               "duration": -4264,
               "type": {
                 "id": 10
@@ -8217,55 +8214,31 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4263,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§f§1Blueberry §1Smoothie"
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "NIGHT_VISION",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -3250,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§f§1Blueberry §1Smoothie"
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "NIGHT_VISION",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
               "duration": -1985,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§f§1Blueberry §1Smoothie"
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "NIGHT_VISION",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -4263,
               "type": {
                 "id": 10
               },
@@ -15164,7 +15137,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "title": "Mogul Mackenzie",
+          "title": "Mogul Mackenzie2",
           "author": "ae0",
           "generation": 2
         }
@@ -15174,7 +15147,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "title": "Mogul Mackenzie2",
+          "title": "Mogul Mackenzie",
           "author": "ae0",
           "generation": 2
         }
@@ -15760,29 +15733,6 @@
     "signPrice": 150.0,
     "invItems": [],
     "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
-    "locX": -1876,
-    "locY": 66,
-    "locZ": 530,
-    "ownerName": "EthistheYeti",
-    "ownerUuid": "1241530e-00c3-4dc7-9545-e62ad122aa87",
-    "signText": [
-      "§1§oA diamond",
-      "§1§oof the deep!"
-    ],
-    "signType": "buy",
-    "signPrice": 11.0,
-    "invItems": [
-      {
-        "type": 264,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
-      }
-    ],
-    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -18949,6 +18899,39 @@
             },
             {
               "amplifier": 0,
+              "duration": -2324,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§f§1Blueberry §1Smoothie"
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "NIGHT_VISION",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": 0,
+              "type": {
+                "id": 13
+              },
+              "ambient": true,
+              "particles": true
+            },
+            {
+              "amplifier": 0,
               "duration": -2325,
               "type": {
                 "id": 10
@@ -18983,39 +18966,6 @@
             {
               "amplifier": 0,
               "duration": -2321,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§f§1Blueberry §1Smoothie"
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "NIGHT_VISION",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": 0,
-              "type": {
-                "id": 13
-              },
-              "ambient": true,
-              "particles": true
-            },
-            {
-              "amplifier": 0,
-              "duration": -2324,
               "type": {
                 "id": 10
               },
@@ -20090,62 +20040,6 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -3715,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Beer",
-          "lore": [
-            "",
-            "§72 Years Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "FIRE_RESISTANCE",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -3646,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Beer",
-          "lore": [
-            "",
-            "§73 Years Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "FIRE_RESISTANCE",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
               "duration": -3834,
               "type": {
                 "id": 10
@@ -20174,6 +20068,34 @@
           "customEffects": [
             {
               "amplifier": 0,
+              "duration": -3715,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Beer",
+          "lore": [
+            "",
+            "§72 Years Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "FIRE_RESISTANCE",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
               "duration": -3839,
               "type": {
                 "id": 10
@@ -20186,6 +20108,34 @@
           "lore": [
             "",
             "§7One Year Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "FIRE_RESISTANCE",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -3646,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Beer",
+          "lore": [
+            "",
+            "§73 Years Barrel aged"
           ]
         }
       },
@@ -25017,34 +24967,6 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4104,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§f§4Bloody Hell",
-          "lore": [
-            "",
-            "§73-times Distilled"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "STRENGTH",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
               "duration": -4098,
               "type": {
                 "id": 10
@@ -25074,6 +24996,34 @@
             {
               "amplifier": 0,
               "duration": -4097,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§f§4Bloody Hell",
+          "lore": [
+            "",
+            "§73-times Distilled"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "STRENGTH",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -4104,
               "type": {
                 "id": 10
               },
@@ -25666,7 +25616,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -27433,7 +27383,7 @@
         "durability": 0,
         "meta": {
           "type": {
-            "type": "SPEED",
+            "type": "STRENGTH",
             "extended": false,
             "upgraded": true
           }
@@ -27445,7 +27395,7 @@
         "durability": 0,
         "meta": {
           "type": {
-            "type": "STRENGTH",
+            "type": "SPEED",
             "extended": false,
             "upgraded": true
           }
@@ -28013,7 +27963,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -29654,7 +29604,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -37317,11 +37267,11 @@
     "ownerName": "TheTimeWizard",
     "ownerUuid": "a0f42a50-3b1a-4782-9a73-52bef77ca48d",
     "signText": [
-      "§c§lA STACK OF ",
-      "§c§lREDSTONE"
+      "§c§lA STACK OF",
+      "§c§lREDSTONE "
     ],
     "signType": "buy",
-    "signPrice": 3.0,
+    "signPrice": 2.0,
     "invItems": [
       {
         "type": 331,
@@ -40007,34 +39957,6 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4265,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fVodka",
-          "lore": [
-            "",
-            "§72-times Distilled"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "INVISIBILITY",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
               "duration": -4267,
               "type": {
                 "id": 10
@@ -40064,6 +39986,34 @@
             {
               "amplifier": 0,
               "duration": -4266,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fVodka",
+          "lore": [
+            "",
+            "§72-times Distilled"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "INVISIBILITY",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -4265,
               "type": {
                 "id": 10
               },
@@ -49267,7 +49217,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -1148,
+              "duration": -3140,
               "type": {
                 "id": 10
               },
@@ -49275,7 +49225,11 @@
               "particles": true
             }
           ],
-          "displayName": "§fFine Wheatbeer"
+          "displayName": "§fFine Wheatbeer",
+          "lore": [
+            "",
+            "§72 Years Barrel aged"
+          ]
         }
       },
       {
@@ -49371,7 +49325,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -3140,
+              "duration": -1148,
               "type": {
                 "id": 10
               },
@@ -49379,11 +49333,7 @@
               "particles": true
             }
           ],
-          "displayName": "§fFine Wheatbeer",
-          "lore": [
-            "",
-            "§72 Years Barrel aged"
-          ]
+          "displayName": "§fFine Wheatbeer"
         }
       },
       {
@@ -50045,7 +49995,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -3730,
+              "duration": -3663,
               "type": {
                 "id": 10
               },
@@ -50056,7 +50006,7 @@
           "displayName": "§fFine Beer",
           "lore": [
             "",
-            "§72 Years Barrel aged"
+            "§73 Years Barrel aged"
           ]
         }
       },
@@ -50085,34 +50035,6 @@
           "lore": [
             "",
             "§7One Year Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "FIRE_RESISTANCE",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -3663,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Beer",
-          "lore": [
-            "",
-            "§73 Years Barrel aged"
           ]
         }
       },
@@ -50169,6 +50091,34 @@
           "lore": [
             "",
             "§7One Year Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "FIRE_RESISTANCE",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -3730,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Beer",
+          "lore": [
+            "",
+            "§72 Years Barrel aged"
           ]
         }
       }
@@ -57028,6 +56978,22 @@
     "invItems": [
       {
         "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "internalTag": {
+            "map": {
+              "SkullProfile": {
+                "map": {
+                  "Name": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": 397,
         "amount": 1,
         "durability": 3,
         "meta": {
@@ -57114,41 +57080,10 @@
       },
       {
         "type": 397,
-        "amount": 2,
+        "amount": 61,
         "durability": 3,
         "meta": {
-          "internalTag": {
-            "map": {
-              "SkullProfile": {
-                "map": {
-                  "Name": {}
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "internalTag": {
-            "map": {
-              "SkullProfile": {
-                "map": {
-                  "Name": {}
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
+          "displayName": "§rPig Zombie Head",
           "internalTag": {
             "map": {
               "SkullProfile": {
@@ -57165,6 +57100,38 @@
         "amount": 1,
         "durability": 0,
         "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "internalTag": {
+            "map": {
+              "SkullProfile": {
+                "map": {
+                  "Name": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "internalTag": {
+            "map": {
+              "SkullProfile": {
+                "map": {
+                  "Name": {}
+                }
+              }
+            }
+          }
+        }
       },
       {
         "type": 397,
@@ -57220,23 +57187,6 @@
         "amount": 7,
         "durability": 3,
         "meta": {
-          "internalTag": {
-            "map": {
-              "SkullProfile": {
-                "map": {
-                  "Name": {}
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "type": 397,
-        "amount": 61,
-        "durability": 3,
-        "meta": {
-          "displayName": "§rPig Zombie Head",
           "internalTag": {
             "map": {
               "SkullProfile": {
@@ -62468,34 +62418,6 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4286,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Wheatbeer",
-          "lore": [
-            "",
-            "§712 Years Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "INVISIBILITY",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
               "duration": -3949,
               "type": {
                 "id": 10
@@ -62552,6 +62474,62 @@
           "customEffects": [
             {
               "amplifier": 0,
+              "duration": -4283,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Wheatbeer",
+          "lore": [
+            "",
+            "§712 Years Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "INVISIBILITY",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -4286,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Wheatbeer",
+          "lore": [
+            "",
+            "§712 Years Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "INVISIBILITY",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
               "duration": -2636,
               "type": {
                 "id": 10
@@ -62581,34 +62559,6 @@
             {
               "amplifier": 0,
               "duration": -4284,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Wheatbeer",
-          "lore": [
-            "",
-            "§712 Years Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "INVISIBILITY",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -4283,
               "type": {
                 "id": 10
               },
@@ -69408,7 +69358,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -76012,7 +75962,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4070,
+              "duration": -4069,
               "type": {
                 "id": 10
               },
@@ -76070,7 +76020,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4069,
+              "duration": -4070,
               "type": {
                 "id": 10
               },
@@ -77315,6 +77265,58 @@
       {
         "type": 425,
         "amount": 1,
+        "durability": 15,
+        "meta": {
+          "base": "WHITE",
+          "patterns": [
+            {
+              "color": "BLACK",
+              "pattern": "SQUARE_BOTTOM_RIGHT"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "RHOMBUS_MIDDLE"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "DIAGONAL_LEFT"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_TOP"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_LEFT"
+            }
+          ]
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
+        "durability": 15,
+        "meta": {
+          "base": "WHITE",
+          "patterns": [
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_TOP"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_BOTTOM"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "TRIANGLE_BOTTOM"
+            }
+          ]
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
         "durability": 0,
         "meta": {
           "base": "BLACK",
@@ -77338,126 +77340,6 @@
             {
               "color": "BLACK",
               "pattern": "HALF_HORIZONTAL"
-            }
-          ]
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
-        "durability": 15,
-        "meta": {
-          "base": "WHITE",
-          "patterns": [
-            {
-              "color": "BLACK",
-              "pattern": "SQUARE_BOTTOM_LEFT"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "RHOMBUS_MIDDLE"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "DIAGONAL_RIGHT_MIRROR"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_TOP"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_RIGHT"
-            }
-          ]
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
-        "durability": 15,
-        "meta": {
-          "base": "WHITE",
-          "patterns": [
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_TOP"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_BOTTOM"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "TRIANGLE_BOTTOM"
-            }
-          ]
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
-        "durability": 15,
-        "meta": {
-          "base": "WHITE",
-          "patterns": [
-            {
-              "color": "BLACK",
-              "pattern": "HALF_VERTICAL_MIRROR"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "HALF_HORIZONTAL_MIRROR"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_LEFT"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "RHOMBUS_MIDDLE"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "TRIANGLES_BOTTOM"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "SQUARE_BOTTOM_LEFT"
-            }
-          ]
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
-        "durability": 15,
-        "meta": {
-          "base": "WHITE",
-          "patterns": [
-            {
-              "color": "BLACK",
-              "pattern": "CURLY_BORDER"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "TRIANGLE_TOP"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "DIAGONAL_LEFT_MIRROR"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_DOWNRIGHT"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "BORDER"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_BOTTOM"
             }
           ]
         }
@@ -77505,6 +77387,40 @@
           "patterns": [
             {
               "color": "BLACK",
+              "pattern": "STRIPE_SMALL"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "STRIPE_LEFT"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "STRIPE_RIGHT"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "STRIPE_TOP"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "HALF_HORIZONTAL_MIRROR"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "TRIANGLES_BOTTOM"
+            }
+          ]
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
+        "durability": 15,
+        "meta": {
+          "base": "WHITE",
+          "patterns": [
+            {
+              "color": "BLACK",
               "pattern": "HALF_VERTICAL"
             },
             {
@@ -77539,23 +77455,27 @@
           "patterns": [
             {
               "color": "BLACK",
-              "pattern": "SQUARE_BOTTOM_RIGHT"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "RHOMBUS_MIDDLE"
+              "pattern": "CURLY_BORDER"
             },
             {
               "color": "BLACK",
-              "pattern": "DIAGONAL_LEFT"
+              "pattern": "TRIANGLE_TOP"
             },
             {
               "color": "BLACK",
-              "pattern": "STRIPE_TOP"
+              "pattern": "DIAGONAL_LEFT_MIRROR"
             },
             {
               "color": "BLACK",
-              "pattern": "STRIPE_LEFT"
+              "pattern": "STRIPE_DOWNRIGHT"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "BORDER"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_BOTTOM"
             }
           ]
         }
@@ -77569,19 +77489,7 @@
           "patterns": [
             {
               "color": "BLACK",
-              "pattern": "STRIPE_SMALL"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "STRIPE_LEFT"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "STRIPE_RIGHT"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "STRIPE_TOP"
+              "pattern": "HALF_VERTICAL_MIRROR"
             },
             {
               "color": "WHITE",
@@ -77589,7 +77497,49 @@
             },
             {
               "color": "BLACK",
+              "pattern": "STRIPE_LEFT"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "RHOMBUS_MIDDLE"
+            },
+            {
+              "color": "BLACK",
               "pattern": "TRIANGLES_BOTTOM"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "SQUARE_BOTTOM_LEFT"
+            }
+          ]
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
+        "durability": 15,
+        "meta": {
+          "base": "WHITE",
+          "patterns": [
+            {
+              "color": "BLACK",
+              "pattern": "SQUARE_BOTTOM_LEFT"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "RHOMBUS_MIDDLE"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "DIAGONAL_RIGHT_MIRROR"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_TOP"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_RIGHT"
             }
           ]
         }
@@ -77774,7 +77724,7 @@
         "meta": {}
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -92468,7 +92418,7 @@
         "meta": {}
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -93682,7 +93632,7 @@
         "meta": {}
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -99385,7 +99335,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -100158,7 +100108,7 @@
     "ownerUuid": "48a44335-a8d4-4f46-9b93-c175f9676075",
     "signText": [
       "British Flag",
-      "souvenir poster"
+      "Souvenir Poster"
     ],
     "signType": "buy",
     "signPrice": 8.0,
@@ -100168,7 +100118,6 @@
         "amount": 1,
         "durability": 4,
         "meta": {
-          "base": "BLUE",
           "patterns": [
             {
               "color": "WHITE",
@@ -100198,7 +100147,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -106669,6 +106618,35 @@
           "customEffects": [
             {
               "amplifier": 0,
+              "duration": -3496,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§f§6Golden Rum",
+          "lore": [
+            "",
+            "§72-times Distilled",
+            "§714 Years Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "INSTANT_DAMAGE",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
               "duration": -3961,
               "type": {
                 "id": 10
@@ -106711,35 +106689,6 @@
             "",
             "§72-times Distilled",
             "§7One Year Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "INSTANT_DAMAGE",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -3496,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§f§6Golden Rum",
-          "lore": [
-            "",
-            "§72-times Distilled",
-            "§714 Years Barrel aged"
           ]
         }
       }
@@ -107854,7 +107803,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4015,
+              "duration": -4019,
               "type": {
                 "id": 10
               },
@@ -107910,7 +107859,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4257,
+              "duration": -4015,
               "type": {
                 "id": 10
               },
@@ -107938,7 +107887,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4019,
+              "duration": -4257,
               "type": {
                 "id": 10
               },
