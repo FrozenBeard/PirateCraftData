@@ -6089,18 +6089,60 @@
           "displayName": "§c§lFire Shield§r",
           "lore": [
             "",
-            "§9Forged in hell!",
-            "",
-            ""
+            "§9Forged in hell!"
           ],
           "enchantments": {
             "THORNS": 2,
             "DURABILITY": 3
+          },
+          "internalTag": {
+            "map": {
+              "BlockEntityTag": {
+                "map": {
+                  "x": {},
+                  "y": {},
+                  "z": {},
+                  "id": {},
+                  "Patterns": {
+                    "list": [],
+                    "type": 0
+                  },
+                  "Base": {}
+                }
+              },
+              "AttributeModifiers": {
+                "list": [
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  },
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  }
+                ],
+                "type": 10
+              }
+            }
           }
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -6916,6 +6958,29 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "locWorld": "PirateCraft_1",
+    "locX": -9422,
+    "locY": 68,
+    "locZ": -901,
+    "ownerName": "RFlash",
+    "ownerUuid": "b5ef43f6-6af0-47da-b4c9-c13352976935",
+    "signText": [
+      "CookedMutton",
+      "8"
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 424,
+        "amount": 8,
+        "durability": 0,
+        "meta": {}
+      }
+    ],
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -7881,6 +7946,30 @@
           "customEffects": [
             {
               "amplifier": 0,
+              "duration": -1985,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§f§1Blueberry §1Smoothie"
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "NIGHT_VISION",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
               "duration": -4120,
               "type": {
                 "id": 10
@@ -7930,30 +8019,6 @@
             {
               "amplifier": 0,
               "duration": -4264,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§f§1Blueberry §1Smoothie"
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "NIGHT_VISION",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -1985,
               "type": {
                 "id": 10
               },
@@ -8391,7 +8456,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -9642,7 +9707,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -10966,7 +11031,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -11931,21 +11996,21 @@
       },
       {
         "type": 403,
-        "amount": 13,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "MENDING": 1
-          }
-        }
-      },
-      {
-        "type": 403,
         "amount": 5,
         "durability": 0,
         "meta": {
           "enchantments": {
             "PROTECTION_ENVIRONMENTAL": 4
+          }
+        }
+      },
+      {
+        "type": 403,
+        "amount": 13,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "MENDING": 1
           }
         }
       },
@@ -12202,7 +12267,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -12918,22 +12983,6 @@
         "meta": {}
       }
     ],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
-    "locX": -1271,
-    "locY": 75,
-    "locZ": 298,
-    "ownerName": "Smokeyriver",
-    "ownerUuid": "c5f87dc3-1c11-4921-8a57-9fab2649af50",
-    "signText": [
-      "",
-      ""
-    ],
-    "signType": "dispose",
-    "signPrice": 0.0,
-    "invItems": [],
     "invInStock": true
   },
   {
@@ -18321,39 +18370,6 @@
             },
             {
               "amplifier": 0,
-              "duration": -2324,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§f§1Blueberry §1Smoothie"
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "NIGHT_VISION",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": 0,
-              "type": {
-                "id": 13
-              },
-              "ambient": true,
-              "particles": true
-            },
-            {
-              "amplifier": 0,
               "duration": -2325,
               "type": {
                 "id": 10
@@ -18388,6 +18404,39 @@
             {
               "amplifier": 0,
               "duration": -2321,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§f§1Blueberry §1Smoothie"
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "NIGHT_VISION",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": 0,
+              "type": {
+                "id": 13
+              },
+              "ambient": true,
+              "particles": true
+            },
+            {
+              "amplifier": 0,
+              "duration": -2324,
               "type": {
                 "id": 10
               },
@@ -18512,7 +18561,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -19388,7 +19437,63 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -3839,
+              "duration": -3834,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Beer",
+          "lore": [
+            "",
+            "§7One Year Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "FIRE_RESISTANCE",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -3715,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Beer",
+          "lore": [
+            "",
+            "§72 Years Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "FIRE_RESISTANCE",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -3835,
               "type": {
                 "id": 10
               },
@@ -19444,7 +19549,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -3835,
+              "duration": -3839,
               "type": {
                 "id": 10
               },
@@ -19456,62 +19561,6 @@
           "lore": [
             "",
             "§7One Year Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "FIRE_RESISTANCE",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -3834,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Beer",
-          "lore": [
-            "",
-            "§7One Year Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "FIRE_RESISTANCE",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -3715,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Beer",
-          "lore": [
-            "",
-            "§72 Years Barrel aged"
           ]
         }
       }
@@ -19571,7 +19620,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -19708,7 +19757,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -20231,7 +20280,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -21935,7 +21984,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -22105,7 +22154,7 @@
         "meta": {}
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -24073,6 +24122,34 @@
           "customEffects": [
             {
               "amplifier": 0,
+              "duration": -4098,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§f§4Bloody Hell",
+          "lore": [
+            "",
+            "§73-times Distilled"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "STRENGTH",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
               "duration": -4097,
               "type": {
                 "id": 10
@@ -24102,34 +24179,6 @@
             {
               "amplifier": 0,
               "duration": -4104,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§f§4Bloody Hell",
-          "lore": [
-            "",
-            "§73-times Distilled"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "STRENGTH",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -4098,
               "type": {
                 "id": 10
               },
@@ -24562,7 +24611,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -28644,7 +28693,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -32458,13 +32507,43 @@
           "displayName": "§cBeautiful Gem",
           "lore": [
             "",
-            "§3Nice",
-            ""
-          ]
+            "§3Nice"
+          ],
+          "internalTag": {
+            "map": {
+              "AttributeModifiers": {
+                "list": [
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  },
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  }
+                ],
+                "type": 10
+              }
+            }
+          }
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -33244,7 +33323,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -33975,7 +34054,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -35789,7 +35868,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -36673,7 +36752,7 @@
         "meta": {}
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -38941,34 +39020,6 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4266,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fVodka",
-          "lore": [
-            "",
-            "§72-times Distilled"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "INVISIBILITY",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
               "duration": -4265,
               "type": {
                 "id": 10
@@ -38998,6 +39049,34 @@
             {
               "amplifier": 0,
               "duration": -4267,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fVodka",
+          "lore": [
+            "",
+            "§72-times Distilled"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "INVISIBILITY",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -4266,
               "type": {
                 "id": 10
               },
@@ -44882,6 +44961,29 @@
   },
   {
     "locWorld": "PirateCraft_1",
+    "locX": -9423,
+    "locY": 68,
+    "locZ": -911,
+    "ownerName": "RFlash",
+    "ownerUuid": "b5ef43f6-6af0-47da-b4c9-c13352976935",
+    "signText": [
+      "Bread",
+      "16"
+    ],
+    "signType": "buy",
+    "signPrice": 3.5,
+    "invItems": [
+      {
+        "type": 297,
+        "amount": 16,
+        "durability": 0,
+        "meta": {}
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "locWorld": "PirateCraft_1",
     "locX": 3975,
     "locY": 75,
     "locZ": -3620,
@@ -46993,7 +47095,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -47882,7 +47984,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -1152,
+              "duration": -3140,
               "type": {
                 "id": 10
               },
@@ -47890,7 +47992,11 @@
               "particles": true
             }
           ],
-          "displayName": "§fFine Wheatbeer"
+          "displayName": "§fFine Wheatbeer",
+          "lore": [
+            "",
+            "§72 Years Barrel aged"
+          ]
         }
       },
       {
@@ -47930,7 +48036,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -3140,
+              "duration": -1152,
               "type": {
                 "id": 10
               },
@@ -47938,11 +48044,31 @@
               "particles": true
             }
           ],
-          "displayName": "§fFine Wheatbeer",
-          "lore": [
-            "",
-            "§72 Years Barrel aged"
-          ]
+          "displayName": "§fFine Wheatbeer"
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "INVISIBILITY",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -1148,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Wheatbeer"
         }
       },
       {
@@ -47971,30 +48097,6 @@
             "",
             "§72 Years Barrel aged"
           ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "INVISIBILITY",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -1148,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Wheatbeer"
         }
       }
     ],
@@ -48328,7 +48430,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -48696,7 +48798,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -3846,
+              "duration": -3730,
               "type": {
                 "id": 10
               },
@@ -48707,35 +48809,7 @@
           "displayName": "§fFine Beer",
           "lore": [
             "",
-            "§7One Year Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "FIRE_RESISTANCE",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -3837,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Beer",
-          "lore": [
-            "",
-            "§7One Year Barrel aged"
+            "§72 Years Barrel aged"
           ]
         }
       },
@@ -48780,7 +48854,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -3730,
+              "duration": -3837,
               "type": {
                 "id": 10
               },
@@ -48791,7 +48865,35 @@
           "displayName": "§fFine Beer",
           "lore": [
             "",
-            "§72 Years Barrel aged"
+            "§7One Year Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "FIRE_RESISTANCE",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -3846,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Beer",
+          "lore": [
+            "",
+            "§7One Year Barrel aged"
           ]
         }
       },
@@ -51317,7 +51419,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -51571,18 +51673,33 @@
           "displayName": "§c§lWorn Shield§r",
           "lore": [
             "",
-            "§9Worn shield!",
-            "",
-            ""
+            "§9Worn shield!"
           ],
           "enchantments": {
             "THORNS": 1,
             "DURABILITY": 1
+          },
+          "internalTag": {
+            "map": {
+              "BlockEntityTag": {
+                "map": {
+                  "x": {},
+                  "y": {},
+                  "z": {},
+                  "id": {},
+                  "Patterns": {
+                    "list": [],
+                    "type": 0
+                  },
+                  "Base": {}
+                }
+              }
+            }
           }
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -55770,39 +55887,7 @@
     "invItems": [
       {
         "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "internalTag": {
-            "map": {
-              "SkullProfile": {
-                "map": {
-                  "Name": {}
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "internalTag": {
-            "map": {
-              "SkullProfile": {
-                "map": {
-                  "Name": {}
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
+        "amount": 2,
         "durability": 3,
         "meta": {
           "internalTag": {
@@ -55821,39 +55906,6 @@
         "amount": 2,
         "durability": 3,
         "meta": {
-          "internalTag": {
-            "map": {
-              "SkullProfile": {
-                "map": {
-                  "Name": {}
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "internalTag": {
-            "map": {
-              "SkullProfile": {
-                "map": {
-                  "Name": {}
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "type": 397,
-        "amount": 61,
-        "durability": 3,
-        "meta": {
-          "displayName": "§rPig Zombie Head",
           "internalTag": {
             "map": {
               "SkullProfile": {
@@ -55889,13 +55941,78 @@
       },
       {
         "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "internalTag": {
+            "map": {
+              "SkullProfile": {
+                "map": {
+                  "Name": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "internalTag": {
+            "map": {
+              "SkullProfile": {
+                "map": {
+                  "Name": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "internalTag": {
+            "map": {
+              "SkullProfile": {
+                "map": {
+                  "Name": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": 397,
         "amount": 1,
         "durability": 0,
         "meta": {}
       },
       {
         "type": 397,
-        "amount": 2,
+        "amount": 61,
+        "durability": 3,
+        "meta": {
+          "displayName": "§rPig Zombie Head",
+          "internalTag": {
+            "map": {
+              "SkullProfile": {
+                "map": {
+                  "Name": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
         "durability": 3,
         "meta": {
           "internalTag": {
@@ -55928,38 +56045,6 @@
       {
         "type": 397,
         "amount": 7,
-        "durability": 3,
-        "meta": {
-          "internalTag": {
-            "map": {
-              "SkullProfile": {
-                "map": {
-                  "Name": {}
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "internalTag": {
-            "map": {
-              "SkullProfile": {
-                "map": {
-                  "Name": {}
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
         "durability": 3,
         "meta": {
           "internalTag": {
@@ -56027,6 +56112,38 @@
         "durability": 3,
         "meta": {
           "displayName": "§rCave Spider Head",
+          "internalTag": {
+            "map": {
+              "SkullProfile": {
+                "map": {
+                  "Name": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "internalTag": {
+            "map": {
+              "SkullProfile": {
+                "map": {
+                  "Name": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
           "internalTag": {
             "map": {
               "SkullProfile": {
@@ -59523,7 +59640,7 @@
         "meta": {}
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -60426,6 +60543,29 @@
   },
   {
     "locWorld": "PirateCraft_1",
+    "locX": -1887,
+    "locY": 67,
+    "locZ": -6800,
+    "ownerName": "emielreijs",
+    "ownerUuid": "f17d6b1e-9604-43ef-a6d3-ba66f998e998",
+    "signText": [
+      "64 dark oak logs",
+      ""
+    ],
+    "signType": "sell",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 162,
+        "amount": 64,
+        "durability": 1,
+        "meta": {}
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "locWorld": "PirateCraft_1",
     "locX": 3773,
     "locY": 18,
     "locZ": 505,
@@ -61238,34 +61378,6 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4286,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Wheatbeer",
-          "lore": [
-            "",
-            "§712 Years Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "INVISIBILITY",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
               "duration": -4283,
               "type": {
                 "id": 10
@@ -61379,6 +61491,34 @@
             {
               "amplifier": 0,
               "duration": -4285,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Wheatbeer",
+          "lore": [
+            "",
+            "§712 Years Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "INVISIBILITY",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -4286,
               "type": {
                 "id": 10
               },
@@ -61739,22 +61879,6 @@
     ],
     "signType": "toggle",
     "signPrice": 1000.0,
-    "invItems": [],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
-    "locX": -1712,
-    "locY": 16,
-    "locZ": 2971,
-    "ownerName": "MasterM1214",
-    "ownerUuid": "e42df0e9-c520-48e8-bbe2-5347e4c40595",
-    "signText": [
-      "ATTENZIONE",
-      "CESTINO"
-    ],
-    "signType": "dispose",
-    "signPrice": 0.0,
     "invItems": [],
     "invInStock": true
   },
@@ -63948,7 +64072,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -64556,6 +64680,29 @@
       {
         "type": 173,
         "amount": 16,
+        "durability": 0,
+        "meta": {}
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "locWorld": "PirateCraft_1",
+    "locX": -9422,
+    "locY": 68,
+    "locZ": -903,
+    "ownerName": "RFlash",
+    "ownerUuid": "b5ef43f6-6af0-47da-b4c9-c13352976935",
+    "signText": [
+      "PorkChops",
+      "8"
+    ],
+    "signType": "buy",
+    "signPrice": 3.5,
+    "invItems": [
+      {
+        "type": 320,
+        "amount": 8,
         "durability": 0,
         "meta": {}
       }
@@ -65405,7 +65552,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -67182,29 +67329,6 @@
   },
   {
     "locWorld": "PirateCraft_1",
-    "locX": -5914,
-    "locY": 68,
-    "locZ": 3837,
-    "ownerName": "Minister_MooSelf",
-    "ownerUuid": "f9f963e7-16ce-4e87-82bb-be4c2de4396b",
-    "signText": [
-      "Pumpkin Pie",
-      "1x"
-    ],
-    "signType": "buy",
-    "signPrice": 3.0,
-    "invItems": [
-      {
-        "type": 400,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
     "locX": -1919,
     "locY": 67,
     "locZ": 554,
@@ -67226,15 +67350,91 @@
           "displayName": "§c§lEvil Shield§r",
           "lore": [
             "",
-            "§9Lord of Evil used this!",
-            "",
-            ""
+            "§9Lord of Evil used this!"
           ],
           "enchantments": {
             "THORNS": 2,
             "DURABILITY": 3
+          },
+          "internalTag": {
+            "map": {
+              "BlockEntityTag": {
+                "map": {
+                  "x": {},
+                  "y": {},
+                  "z": {},
+                  "id": {},
+                  "Patterns": {
+                    "list": [],
+                    "type": 0
+                  },
+                  "Base": {}
+                }
+              },
+              "AttributeModifiers": {
+                "list": [
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  },
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  },
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  }
+                ],
+                "type": 10
+              }
+            }
           }
         }
+      }
+    ],
+    "invInStock": false
+  },
+  {
+    "locWorld": "PirateCraft_1",
+    "locX": -5914,
+    "locY": 68,
+    "locZ": 3837,
+    "ownerName": "Minister_MooSelf",
+    "ownerUuid": "f9f963e7-16ce-4e87-82bb-be4c2de4396b",
+    "signText": [
+      "Pumpkin Pie",
+      "1x"
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 400,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
       }
     ],
     "invInStock": true
@@ -70858,22 +71058,6 @@
   },
   {
     "locWorld": "PirateCraft_1",
-    "locX": -1698,
-    "locY": 25,
-    "locZ": 2951,
-    "ownerName": "MasterM1214",
-    "ownerUuid": "e42df0e9-c520-48e8-bbe2-5347e4c40595",
-    "signText": [
-      "blocco passaggio",
-      "stoccaggio-sala"
-    ],
-    "signType": "toggle",
-    "signPrice": 0.0,
-    "invItems": [],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
     "locX": -2093,
     "locY": 65,
     "locZ": 1872,
@@ -73748,6 +73932,29 @@
   },
   {
     "locWorld": "PirateCraft_1",
+    "locX": 8729,
+    "locY": 73,
+    "locZ": -3838,
+    "ownerName": "CommanderAsh123",
+    "ownerUuid": "e3ba191c-00c5-4d2e-bb4d-793e11156910",
+    "signText": [
+      "Cobblestone",
+      "64"
+    ],
+    "signType": "sell",
+    "signPrice": 0.5,
+    "invItems": [
+      {
+        "type": 4,
+        "amount": 64,
+        "durability": 0,
+        "meta": {}
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "locWorld": "PirateCraft_1",
     "locX": 141,
     "locY": 70,
     "locZ": -2534,
@@ -74703,35 +74910,6 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4068,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fSpicy Rum",
-          "lore": [
-            "",
-            "§72-times Distilled",
-            "§7One Year Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "INSTANT_DAMAGE",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
               "duration": -4069,
               "type": {
                 "id": 10
@@ -74762,6 +74940,35 @@
             {
               "amplifier": 0,
               "duration": -4070,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fSpicy Rum",
+          "lore": [
+            "",
+            "§72-times Distilled",
+            "§7One Year Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "INSTANT_DAMAGE",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
+              "duration": -4068,
               "type": {
                 "id": 10
               },
@@ -74875,6 +75082,29 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "locWorld": "PirateCraft_1",
+    "locX": -9423,
+    "locY": 68,
+    "locZ": -910,
+    "ownerName": "RFlash",
+    "ownerUuid": "b5ef43f6-6af0-47da-b4c9-c13352976935",
+    "signText": [
+      "Melons",
+      "16"
+    ],
+    "signType": "buy",
+    "signPrice": 0.5,
+    "invItems": [
+      {
+        "type": 360,
+        "amount": 16,
+        "durability": 0,
+        "meta": {}
+      }
+    ],
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -75997,11 +76227,11 @@
             },
             {
               "color": "BLACK",
-              "pattern": "DIAGONAL_RIGHT"
+              "pattern": "DIAGONAL_LEFT_MIRROR"
             },
             {
               "color": "BLACK",
-              "pattern": "STRIPE_DOWNLEFT"
+              "pattern": "STRIPE_DOWNRIGHT"
             },
             {
               "color": "BLACK",
@@ -76053,6 +76283,40 @@
           "patterns": [
             {
               "color": "BLACK",
+              "pattern": "HALF_VERTICAL_MIRROR"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "HALF_HORIZONTAL_MIRROR"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_LEFT"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "RHOMBUS_MIDDLE"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "TRIANGLES_BOTTOM"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "SQUARE_BOTTOM_LEFT"
+            }
+          ]
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
+        "durability": 15,
+        "meta": {
+          "base": "WHITE",
+          "patterns": [
+            {
+              "color": "BLACK",
               "pattern": "STRIPE_SMALL"
             },
             {
@@ -76087,83 +76351,27 @@
           "patterns": [
             {
               "color": "BLACK",
-              "pattern": "STRIPE_TOP"
+              "pattern": "CURLY_BORDER"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "TRIANGLE_TOP"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "DIAGONAL_RIGHT"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_DOWNLEFT"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "BORDER"
             },
             {
               "color": "BLACK",
               "pattern": "STRIPE_BOTTOM"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "TRIANGLE_BOTTOM"
-            }
-          ]
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
-        "durability": 15,
-        "meta": {
-          "base": "WHITE",
-          "patterns": [
-            {
-              "color": "BLACK",
-              "pattern": "HALF_VERTICAL"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "HALF_HORIZONTAL_MIRROR"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_RIGHT"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "RHOMBUS_MIDDLE"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "TRIANGLES_BOTTOM"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "SQUARE_BOTTOM_RIGHT"
-            }
-          ]
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
-        "durability": 15,
-        "meta": {
-          "base": "WHITE",
-          "patterns": [
-            {
-              "color": "BLACK",
-              "pattern": "HALF_VERTICAL_MIRROR"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "HALF_HORIZONTAL_MIRROR"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_LEFT"
-            },
-            {
-              "color": "WHITE",
-              "pattern": "RHOMBUS_MIDDLE"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "TRIANGLES_BOTTOM"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "SQUARE_BOTTOM_LEFT"
             }
           ]
         }
@@ -76207,27 +76415,15 @@
           "patterns": [
             {
               "color": "BLACK",
-              "pattern": "CURLY_BORDER"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "TRIANGLE_TOP"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "DIAGONAL_LEFT_MIRROR"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "STRIPE_DOWNRIGHT"
-            },
-            {
-              "color": "BLACK",
-              "pattern": "BORDER"
+              "pattern": "STRIPE_TOP"
             },
             {
               "color": "BLACK",
               "pattern": "STRIPE_BOTTOM"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "TRIANGLE_BOTTOM"
             }
           ]
         }
@@ -76258,6 +76454,40 @@
             {
               "color": "BLACK",
               "pattern": "STRIPE_LEFT"
+            }
+          ]
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
+        "durability": 15,
+        "meta": {
+          "base": "WHITE",
+          "patterns": [
+            {
+              "color": "BLACK",
+              "pattern": "HALF_VERTICAL"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "HALF_HORIZONTAL_MIRROR"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "STRIPE_RIGHT"
+            },
+            {
+              "color": "WHITE",
+              "pattern": "RHOMBUS_MIDDLE"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "TRIANGLES_BOTTOM"
+            },
+            {
+              "color": "BLACK",
+              "pattern": "SQUARE_BOTTOM_RIGHT"
             }
           ]
         }
@@ -76442,7 +76672,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -76859,6 +77089,34 @@
           "customEffects": [
             {
               "amplifier": 0,
+              "duration": -4288,
+              "type": {
+                "id": 10
+              },
+              "ambient": true,
+              "particles": true
+            }
+          ],
+          "displayName": "§fFine Beer",
+          "lore": [
+            "",
+            "§712 Years Barrel aged"
+          ]
+        }
+      },
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": {
+            "type": "FIRE_RESISTANCE",
+            "extended": false,
+            "upgraded": false
+          },
+          "customEffects": [
+            {
+              "amplifier": 0,
               "duration": -4287,
               "type": {
                 "id": 10
@@ -76888,34 +77146,6 @@
             {
               "amplifier": 0,
               "duration": -4289,
-              "type": {
-                "id": 10
-              },
-              "ambient": true,
-              "particles": true
-            }
-          ],
-          "displayName": "§fFine Beer",
-          "lore": [
-            "",
-            "§712 Years Barrel aged"
-          ]
-        }
-      },
-      {
-        "type": 373,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": {
-            "type": "FIRE_RESISTANCE",
-            "extended": false,
-            "upgraded": false
-          },
-          "customEffects": [
-            {
-              "amplifier": 0,
-              "duration": -4288,
               "type": {
                 "id": 10
               },
@@ -77416,7 +77646,7 @@
         "meta": {}
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "locWorld": "PirateCraft_1",
@@ -77946,13 +78176,43 @@
           "displayName": "§bBeautiful Gem",
           "lore": [
             "",
-            "§3Nice",
-            ""
-          ]
+            "§3Nice"
+          ],
+          "internalTag": {
+            "map": {
+              "AttributeModifiers": {
+                "list": [
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  },
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  }
+                ],
+                "type": 10
+              }
+            }
+          }
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -78333,7 +78593,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -78834,7 +79094,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -79451,7 +79711,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -82133,18 +82393,48 @@
           "displayName": "§c§lCostume Blade§r",
           "lore": [
             "",
-            "§9Costume sword.",
-            ""
+            "§9Costume sword."
           ],
           "enchantments": {
             "DAMAGE_ALL": 2,
             "FIRE_ASPECT": 1,
             "DURABILITY": 3
+          },
+          "internalTag": {
+            "map": {
+              "AttributeModifiers": {
+                "list": [
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  },
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  }
+                ],
+                "type": 10
+              }
+            }
           }
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -83471,12 +83761,6 @@
         }
       },
       {
-        "type": 271,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
-      },
-      {
         "type": 387,
         "amount": 1,
         "durability": 0,
@@ -83488,6 +83772,12 @@
             "§eRules Commands Ranks"
           ]
         }
+      },
+      {
+        "type": 271,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
       },
       {
         "type": 270,
@@ -83834,7 +84124,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -86723,22 +87013,6 @@
   },
   {
     "locWorld": "PirateCraft_1",
-    "locX": -1697,
-    "locY": 25,
-    "locZ": 2951,
-    "ownerName": "MasterM1214",
-    "ownerUuid": "e42df0e9-c520-48e8-bbe2-5347e4c40595",
-    "signText": [
-      "Farm di zombie",
-      "in modalità"
-    ],
-    "signType": "toggle",
-    "signPrice": 0.0,
-    "invItems": [],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
     "locX": -196,
     "locY": 73,
     "locZ": -4484,
@@ -87515,29 +87789,6 @@
   },
   {
     "locWorld": "PirateCraft_1",
-    "locX": 159,
-    "locY": 68,
-    "locZ": -2574,
-    "ownerName": "CottageCooper",
-    "ownerUuid": "c4f3a6aa-aed5-48c2-9bbf-22fde6ccdfba",
-    "signText": [
-      "Iron",
-      "x1"
-    ],
-    "signType": "buy",
-    "signPrice": 1.0,
-    "invItems": [
-      {
-        "type": 265,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
-      }
-    ],
-    "invInStock": false
-  },
-  {
-    "locWorld": "PirateCraft_1",
     "locX": -1876,
     "locY": 72,
     "locZ": 617,
@@ -87568,7 +87819,30 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
+  },
+  {
+    "locWorld": "PirateCraft_1",
+    "locX": 159,
+    "locY": 68,
+    "locZ": -2574,
+    "ownerName": "CottageCooper",
+    "ownerUuid": "c4f3a6aa-aed5-48c2-9bbf-22fde6ccdfba",
+    "signText": [
+      "Iron",
+      "x1"
+    ],
+    "signType": "buy",
+    "signPrice": 1.0,
+    "invItems": [
+      {
+        "type": 265,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
+      }
+    ],
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -88292,7 +88566,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -91237,7 +91511,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -91306,22 +91580,6 @@
         "meta": {}
       }
     ],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
-    "locX": -1698,
-    "locY": 24,
-    "locZ": 2951,
-    "ownerName": "MasterM1214",
-    "ownerUuid": "e42df0e9-c520-48e8-bbe2-5347e4c40595",
-    "signText": [
-      "barriera zona",
-      "villagers"
-    ],
-    "signType": "toggle",
-    "signPrice": 0.0,
-    "invItems": [],
     "invInStock": true
   },
   {
@@ -92504,7 +92762,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -98051,7 +98309,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -98287,16 +98545,70 @@
           "lore": [
             "",
             "§9Forged in hell!",
-            "§9Warm to the touch.",
-            ""
+            "§9Warm to the touch."
           ],
           "enchantments": {
             "DURABILITY": 3
+          },
+          "internalTag": {
+            "map": {
+              "BlockEntityTag": {
+                "map": {
+                  "x": {},
+                  "y": {},
+                  "z": {},
+                  "id": {},
+                  "Patterns": {
+                    "list": [],
+                    "type": 0
+                  },
+                  "Base": {}
+                }
+              },
+              "AttributeModifiers": {
+                "list": [
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  },
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  },
+                  {
+                    "map": {
+                      "UUIDMost": {},
+                      "UUIDLeast": {},
+                      "Amount": {},
+                      "Slot": {},
+                      "AttributeName": {},
+                      "Operation": {},
+                      "Name": {}
+                    }
+                  }
+                ],
+                "type": 10
+              }
+            }
           }
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -98781,7 +99093,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -99310,7 +99622,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -99491,6 +99803,29 @@
       {
         "type": 366,
         "amount": 3,
+        "durability": 0,
+        "meta": {}
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "locWorld": "PirateCraft_1",
+    "locX": -9422,
+    "locY": 68,
+    "locZ": -902,
+    "ownerName": "RFlash",
+    "ownerUuid": "b5ef43f6-6af0-47da-b4c9-c13352976935",
+    "signText": [
+      "CookedChicken",
+      "8"
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 366,
+        "amount": 8,
         "durability": 0,
         "meta": {}
       }
@@ -100006,7 +100341,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -102776,22 +103111,6 @@
   },
   {
     "locWorld": "PirateCraft_1",
-    "locX": -1696,
-    "locY": 25,
-    "locZ": 2951,
-    "ownerName": "MasterM1214",
-    "ownerUuid": "e42df0e9-c520-48e8-bbe2-5347e4c40595",
-    "signText": [
-      "barriera",
-      "farm di zombie"
-    ],
-    "signType": "toggle",
-    "signPrice": 0.0,
-    "invItems": [],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
     "locX": -1948,
     "locY": 70,
     "locZ": 699,
@@ -105305,7 +105624,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -3496,
+              "duration": -4071,
               "type": {
                 "id": 10
               },
@@ -105313,11 +105632,11 @@
               "particles": true
             }
           ],
-          "displayName": "§f§6Golden Rum",
+          "displayName": "§fSpicy Rum",
           "lore": [
             "",
             "§72-times Distilled",
-            "§714 Years Barrel aged"
+            "§7One Year Barrel aged"
           ]
         }
       },
@@ -105334,7 +105653,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4071,
+              "duration": -3496,
               "type": {
                 "id": 10
               },
@@ -105342,11 +105661,11 @@
               "particles": true
             }
           ],
-          "displayName": "§fSpicy Rum",
+          "displayName": "§f§6Golden Rum",
           "lore": [
             "",
             "§72-times Distilled",
-            "§7One Year Barrel aged"
+            "§714 Years Barrel aged"
           ]
         }
       }
@@ -105550,6 +105869,29 @@
   },
   {
     "locWorld": "PirateCraft_1",
+    "locX": -9423,
+    "locY": 68,
+    "locZ": -909,
+    "ownerName": "RFlash",
+    "ownerUuid": "b5ef43f6-6af0-47da-b4c9-c13352976935",
+    "signText": [
+      "Pumpkin Pie",
+      "1"
+    ],
+    "signType": "buy",
+    "signPrice": 4.0,
+    "invItems": [
+      {
+        "type": 400,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "locWorld": "PirateCraft_1",
     "locX": -1871,
     "locY": 72,
     "locZ": 606,
@@ -105569,7 +105911,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -106437,7 +106779,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4258,
+              "duration": -4015,
               "type": {
                 "id": 10
               },
@@ -106493,7 +106835,7 @@
           "customEffects": [
             {
               "amplifier": 0,
-              "duration": -4015,
+              "duration": -4258,
               "type": {
                 "id": 10
               },
@@ -107014,22 +107356,6 @@
   },
   {
     "locWorld": "PirateCraft_1",
-    "locX": -1698,
-    "locY": 23,
-    "locZ": 2951,
-    "ownerName": "MasterM1214",
-    "ownerUuid": "e42df0e9-c520-48e8-bbe2-5347e4c40595",
-    "signText": [
-      "chiusura casse",
-      "dello stoccaggio"
-    ],
-    "signType": "device",
-    "signPrice": 0.0,
-    "invItems": [],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
     "locX": -1755,
     "locY": 73,
     "locZ": -2816,
@@ -107149,6 +107475,29 @@
     "signType": "dispose",
     "signPrice": 0.0,
     "invItems": [],
+    "invInStock": true
+  },
+  {
+    "locWorld": "PirateCraft_1",
+    "locX": 2569,
+    "locY": 68,
+    "locZ": 24,
+    "ownerName": "Kenzo74",
+    "ownerUuid": "54bef613-cff2-4da5-a4f9-d508198ef70d",
+    "signText": [
+      "Bottle o\u0027",
+      "Enchanting "
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 384,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
+      }
+    ],
     "invInStock": true
   },
   {
@@ -110291,7 +110640,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -111804,29 +112153,6 @@
   },
   {
     "locWorld": "PirateCraft_1",
-    "locX": 4378,
-    "locY": 74,
-    "locZ": 2037,
-    "ownerName": "Cookie_Monster03",
-    "ownerUuid": "0cbe6955-f399-4fdf-9943-24a635b38bf3",
-    "signText": [
-      "Melon seeds",
-      "16"
-    ],
-    "signType": "buy",
-    "signPrice": 2.0,
-    "invItems": [
-      {
-        "type": 362,
-        "amount": 16,
-        "durability": 0,
-        "meta": {}
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
     "locX": -1869,
     "locY": 80,
     "locZ": 610,
@@ -111848,6 +112174,29 @@
           "author": "ArtificialDemon",
           "generation": 1
         }
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "locWorld": "PirateCraft_1",
+    "locX": 4378,
+    "locY": 74,
+    "locZ": 2037,
+    "ownerName": "Cookie_Monster03",
+    "ownerUuid": "0cbe6955-f399-4fdf-9943-24a635b38bf3",
+    "signText": [
+      "Melon seeds",
+      "16"
+    ],
+    "signType": "buy",
+    "signPrice": 2.0,
+    "invItems": [
+      {
+        "type": 362,
+        "amount": 16,
+        "durability": 0,
+        "meta": {}
       }
     ],
     "invInStock": true
@@ -116355,7 +116704,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
@@ -116757,22 +117106,6 @@
         "meta": {}
       }
     ],
-    "invInStock": true
-  },
-  {
-    "locWorld": "PirateCraft_1",
-    "locX": -1696,
-    "locY": 24,
-    "locZ": 2951,
-    "ownerName": "MasterM1214",
-    "ownerUuid": "e42df0e9-c520-48e8-bbe2-5347e4c40595",
-    "signText": [
-      "barriera",
-      "stoccaggio"
-    ],
-    "signType": "toggle",
-    "signPrice": 0.0,
-    "invItems": [],
     "invInStock": true
   },
   {
@@ -117732,7 +118065,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "locWorld": "PirateCraft_1",
