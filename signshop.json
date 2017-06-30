@@ -2495,29 +2495,6 @@
     "invInStock": true
   },
   {
-    "id": -1195891027,
-    "locWorld": "PirateCraft_1",
-    "locX": -1047,
-    "locY": 34,
-    "locZ": -1762,
-    "ownerName": "SmokinSoldier",
-    "ownerUuid": "20b89f1e-21fa-4c1d-9699-e228fec2eb81",
-    "signText": [
-      "Diamond",
-      "x1"
-    ],
-    "signType": "buy",
-    "signPrice": 8.0,
-    "invItems": [
-      {
-        "type": 264,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1196690155,
     "locWorld": "PirateCraft_1",
     "locX": -1882,
@@ -2539,6 +2516,29 @@
       }
     ],
     "invInStock": true
+  },
+  {
+    "id": -1195891027,
+    "locWorld": "PirateCraft_1",
+    "locX": -1047,
+    "locY": 34,
+    "locZ": -1762,
+    "ownerName": "SmokinSoldier",
+    "ownerUuid": "20b89f1e-21fa-4c1d-9699-e228fec2eb81",
+    "signText": [
+      "Diamond",
+      "x1"
+    ],
+    "signType": "buy",
+    "signPrice": 8.0,
+    "invItems": [
+      {
+        "type": 264,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": false
   },
   {
     "id": -1195200368,
@@ -5835,7 +5835,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 90.0,
+    "signPrice": 95.0,
     "invItems": [
       {
         "type": 403,
@@ -5848,7 +5848,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1200694318,
@@ -11286,7 +11286,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194617419,
@@ -18840,22 +18840,6 @@
     "invInStock": true
   },
   {
-    "id": -1195202048,
-    "locWorld": "PirateCraft_1",
-    "locX": -334,
-    "locY": 59,
-    "locZ": 1249,
-    "ownerName": "PinUps",
-    "ownerUuid": "f50c502f-edf4-4a25-9a0b-4ddc0a980a1c",
-    "signText": [
-      "",
-      ""
-    ],
-    "signType": "donatehand",
-    "signPrice": 0.0,
-    "invInStock": true
-  },
-  {
     "id": -1194979539,
     "locWorld": "PirateCraft_1",
     "locX": -97,
@@ -19756,6 +19740,7 @@
     ],
     "signType": "donatehand",
     "signPrice": 0.0,
+    "invItems": [],
     "invInStock": true
   },
   {
@@ -20402,7 +20387,7 @@
       "§lStrider III"
     ],
     "signType": "buy",
-    "signPrice": 75.0,
+    "signPrice": 100.0,
     "invItems": [
       {
         "type": 403,
@@ -21373,7 +21358,9 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "power": 0
+          "displayName": "Angry Creeper",
+          "power": 1,
+          "effectCount": 2
         }
       },
       {
@@ -21381,9 +21368,7 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "displayName": "Angry Creeper",
-          "power": 1,
-          "effectCount": 2
+          "power": 0
         }
       }
     ],
@@ -25570,7 +25555,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196718604,
@@ -25632,7 +25617,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "SPEED",
+          "type": "STRENGTH",
           "extended": false,
           "upgraded": true
         }
@@ -25642,7 +25627,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "STRENGTH",
+          "type": "SPEED",
           "extended": false,
           "upgraded": true
         }
@@ -27089,6 +27074,23 @@
     "invInStock": true
   },
   {
+    "id": -1195217388,
+    "locWorld": "PirateCraft_1",
+    "locX": -350,
+    "locY": 61,
+    "locZ": 1223,
+    "ownerName": "PinUps",
+    "ownerUuid": "f50c502f-edf4-4a25-9a0b-4ddc0a980a1c",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "dispose",
+    "signPrice": 0.0,
+    "invItems": [],
+    "invInStock": true
+  },
+  {
     "id": -1195592021,
     "locWorld": "PirateCraft_1",
     "locX": -737,
@@ -27115,22 +27117,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1195217388,
-    "locWorld": "PirateCraft_1",
-    "locX": -350,
-    "locY": 61,
-    "locZ": 1223,
-    "ownerName": "PinUps",
-    "ownerUuid": "f50c502f-edf4-4a25-9a0b-4ddc0a980a1c",
-    "signText": [
-      "",
-      ""
-    ],
-    "signType": "dispose",
-    "signPrice": 0.0,
-    "invInStock": true
   },
   {
     "id": -1195890903,
@@ -27254,7 +27240,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 135.0,
+    "signPrice": 155.0,
     "invItems": [
       {
         "type": 403,
@@ -28847,6 +28833,34 @@
     "invInStock": true
   },
   {
+    "id": -1196672687,
+    "locWorld": "PirateCraft_1",
+    "locX": -1864,
+    "locY": 71,
+    "locZ": 568,
+    "ownerName": "Valerio101",
+    "ownerUuid": "32ea2123-8ba2-4c17-a959-7c2fb337c204",
+    "signText": [
+      "power IV",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 40.0,
+    "invItems": [
+      {
+        "type": 403,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "ARROW_DAMAGE": 4
+          }
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1194752094,
     "locWorld": "PirateCraft_1",
     "locX": 138,
@@ -28888,34 +28902,6 @@
         "type": 372,
         "amount": 5,
         "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1196672687,
-    "locWorld": "PirateCraft_1",
-    "locX": -1864,
-    "locY": 71,
-    "locZ": 568,
-    "ownerName": "Valerio101",
-    "ownerUuid": "32ea2123-8ba2-4c17-a959-7c2fb337c204",
-    "signText": [
-      "power IV",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 40.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "ARROW_DAMAGE": 4
-          }
-        }
       }
     ],
     "invInStock": true
@@ -30371,7 +30357,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 45.0,
+    "signPrice": 55.0,
     "invItems": [
       {
         "type": 403,
@@ -30526,29 +30512,6 @@
     "invItems": [
       {
         "type": 58,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1195202043,
-    "locWorld": "PirateCraft_1",
-    "locX": -334,
-    "locY": 59,
-    "locZ": 1254,
-    "ownerName": "PinUps",
-    "ownerUuid": "f50c502f-edf4-4a25-9a0b-4ddc0a980a1c",
-    "signText": [
-      "",
-      ""
-    ],
-    "signType": "donatehand",
-    "signPrice": 0.0,
-    "invItems": [
-      {
-        "type": 347,
         "amount": 1,
         "durability": 0
       }
@@ -31487,6 +31450,23 @@
     "invInStock": true
   },
   {
+    "id": -1195207779,
+    "locWorld": "PirateCraft_1",
+    "locX": -340,
+    "locY": 60,
+    "locZ": 1253,
+    "ownerName": "PinUps",
+    "ownerUuid": "f50c502f-edf4-4a25-9a0b-4ddc0a980a1c",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "dispose",
+    "signPrice": 0.0,
+    "invItems": [],
+    "invInStock": true
+  },
+  {
     "id": -1195596705,
     "locWorld": "PirateCraft_1",
     "locX": -742,
@@ -31510,22 +31490,6 @@
         }
       }
     ],
-    "invInStock": true
-  },
-  {
-    "id": -1195207779,
-    "locWorld": "PirateCraft_1",
-    "locX": -340,
-    "locY": 60,
-    "locZ": 1253,
-    "ownerName": "PinUps",
-    "ownerUuid": "f50c502f-edf4-4a25-9a0b-4ddc0a980a1c",
-    "signText": [
-      "",
-      "Trash"
-    ],
-    "signType": "dispose",
-    "signPrice": 0.0,
     "invInStock": true
   },
   {
@@ -32603,6 +32567,29 @@
     "invInStock": true
   },
   {
+    "id": -1196692077,
+    "locWorld": "PirateCraft_1",
+    "locX": -1884,
+    "locY": 66,
+    "locZ": 553,
+    "ownerName": "Trafalgar_Law",
+    "ownerUuid": "47130f8c-57b4-4fd1-9242-5ab2d8d8cae9",
+    "signText": [
+      "Diamond",
+      "1"
+    ],
+    "signType": "buy",
+    "signPrice": 16.0,
+    "invItems": [
+      {
+        "type": 264,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1194633702,
     "locWorld": "PirateCraft_1",
     "locX": 261,
@@ -32645,29 +32632,6 @@
     "invItems": [
       {
         "type": 86,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1196692077,
-    "locWorld": "PirateCraft_1",
-    "locX": -1884,
-    "locY": 66,
-    "locZ": 553,
-    "ownerName": "Trafalgar_Law",
-    "ownerUuid": "47130f8c-57b4-4fd1-9242-5ab2d8d8cae9",
-    "signText": [
-      "Diamond",
-      "1"
-    ],
-    "signType": "buy",
-    "signPrice": 16.0,
-    "invItems": [
-      {
-        "type": 264,
         "amount": 1,
         "durability": 0
       }
@@ -34722,7 +34686,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 90.0,
+    "signPrice": 100.0,
     "invItems": [
       {
         "type": 403,
@@ -35680,7 +35644,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195510085,
@@ -35760,7 +35724,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196681506,
@@ -36022,7 +35986,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 45.0,
+    "signPrice": 55.0,
     "invItems": [
       {
         "type": 403,
@@ -37633,7 +37597,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196431562,
@@ -38702,7 +38666,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196443987,
@@ -40883,7 +40847,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195615133,
@@ -49617,7 +49581,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1201785186,
@@ -52824,7 +52788,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195164299,
@@ -52921,7 +52885,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1193176148,
@@ -53288,7 +53252,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196689791,
@@ -54351,6 +54315,99 @@
     "invItems": [
       {
         "type": 397,
+        "amount": 61,
+        "durability": 3,
+        "meta": {
+          "displayName": "§rPig Zombie Head",
+          "owner": "MHF_PigZombie"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "MrCatSquid"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "DirectorAnivian"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "Madmant64"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Ghostlock2213"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 2,
+        "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "iLoveApples"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "LebroNation"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "bmr312"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "FTB_player123"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "ItzDesire4Eva"
+        }
+      },
+      {
+        "type": 397,
         "amount": 2,
         "durability": 3,
         "meta": {
@@ -54379,67 +54436,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "_PigGuardian_"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 2,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
           "owner": "SIRHAYDEN12"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "ItzDesire4Eva"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "Ghostlock2213"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "iLoveApples"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "bmr312"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "LebroNation"
         }
       },
       {
@@ -54455,40 +54452,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "FTB_player123"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 61,
-        "durability": 3,
-        "meta": {
-          "displayName": "§rPig Zombie Head",
-          "owner": "MHF_PigZombie"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "Madmant64"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "DirectorAnivian"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "MrCatSquid"
+          "owner": "_PigGuardian_"
         }
       }
     ],
@@ -56460,7 +56424,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 90.0,
+    "signPrice": 95.0,
     "invItems": [
       {
         "type": 403,
@@ -59467,7 +59431,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 125.0,
+    "signPrice": 130.0,
     "invItems": [
       {
         "type": 403,
@@ -59480,7 +59444,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195164269,
@@ -59764,6 +59728,23 @@
     "invInStock": true
   },
   {
+    "id": -1195202037,
+    "locWorld": "PirateCraft_1",
+    "locX": -334,
+    "locY": 59,
+    "locZ": 1260,
+    "ownerName": "PinUps",
+    "ownerUuid": "f50c502f-edf4-4a25-9a0b-4ddc0a980a1c",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "donatehand",
+    "signPrice": 0.0,
+    "invItems": [],
+    "invInStock": true
+  },
+  {
     "id": -1196515736,
     "locWorld": "PirateCraft_1",
     "locX": -1702,
@@ -59778,22 +59759,6 @@
     "signType": "device",
     "signPrice": 0.0,
     "invItems": [],
-    "invInStock": true
-  },
-  {
-    "id": -1195202037,
-    "locWorld": "PirateCraft_1",
-    "locX": -334,
-    "locY": 59,
-    "locZ": 1260,
-    "ownerName": "PinUps",
-    "ownerUuid": "f50c502f-edf4-4a25-9a0b-4ddc0a980a1c",
-    "signText": [
-      "",
-      ""
-    ],
-    "signType": "donatehand",
-    "signPrice": 0.0,
     "invInStock": true
   },
   {
@@ -60600,7 +60565,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 30.0,
+    "signPrice": 40.0,
     "invItems": [
       {
         "type": 403,
@@ -61265,7 +61230,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1200575976,
@@ -61706,7 +61671,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195610292,
@@ -62654,7 +62619,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 120.0,
+    "signPrice": 125.0,
     "invItems": [
       {
         "type": 403,
@@ -66577,6 +66542,7 @@
     ],
     "signType": "donatehand",
     "signPrice": 0.0,
+    "invItems": [],
     "invInStock": true
   },
   {
@@ -69527,7 +69493,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "louslous"
+          "owner": "Frixix"
         }
       },
       {
@@ -69535,7 +69501,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Frixix"
+          "owner": "louslous"
         }
       }
     ],
@@ -72013,7 +71979,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194749015,
@@ -74219,42 +74185,6 @@
       {
         "type": 425,
         "amount": 1,
-        "durability": 15,
-        "meta": {
-          "baseColor": "WHITE",
-          "patternCount": 6
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
-        "durability": 15,
-        "meta": {
-          "baseColor": "WHITE",
-          "patternCount": 5
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
-        "durability": 15,
-        "meta": {
-          "baseColor": "WHITE",
-          "patternCount": 6
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
-        "durability": 15,
-        "meta": {
-          "baseColor": "WHITE",
-          "patternCount": 5
-        }
-      },
-      {
-        "type": 425,
-        "amount": 1,
         "durability": 0,
         "meta": {
           "baseColor": "BLACK",
@@ -74267,7 +74197,43 @@
         "durability": 15,
         "meta": {
           "baseColor": "WHITE",
+          "patternCount": 5
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
+        "durability": 15,
+        "meta": {
+          "baseColor": "WHITE",
+          "patternCount": 5
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
+        "durability": 15,
+        "meta": {
+          "baseColor": "WHITE",
           "patternCount": 3
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
+        "durability": 15,
+        "meta": {
+          "baseColor": "WHITE",
+          "patternCount": 6
+        }
+      },
+      {
+        "type": 425,
+        "amount": 1,
+        "durability": 15,
+        "meta": {
+          "baseColor": "WHITE",
+          "patternCount": 6
         }
       },
       {
@@ -77620,7 +77586,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1194975698,
@@ -81520,7 +81486,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1200715222,
@@ -84176,7 +84142,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194724005,
@@ -84633,7 +84599,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195168183,
@@ -95999,7 +95965,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1201783235,
@@ -96568,7 +96534,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196379158,
@@ -97398,7 +97364,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196694895,
@@ -105512,7 +105478,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1193619613,
@@ -105641,7 +105607,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1192408402,
@@ -105817,6 +105783,7 @@
     ],
     "signType": "donatehand",
     "signPrice": 0.0,
+    "invItems": [],
     "invInStock": true
   },
   {
@@ -107481,7 +107448,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 65.0,
+    "signPrice": 75.0,
     "invItems": [
       {
         "type": 403,
@@ -108517,7 +108484,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1201782210,
@@ -110190,7 +110157,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1192394880,
@@ -110569,7 +110536,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196693574,
@@ -112555,6 +112522,7 @@
     ],
     "signType": "donatehand",
     "signPrice": 0.0,
+    "invItems": [],
     "invInStock": true
   },
   {
@@ -112766,7 +112734,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1200556755,
