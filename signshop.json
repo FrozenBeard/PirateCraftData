@@ -6574,29 +6574,6 @@
     "invInStock": true
   },
   {
-    "id": -1191065469,
-    "locWorld": "PirateCraft_1",
-    "locX": 3975,
-    "locY": 75,
-    "locZ": -3617,
-    "ownerName": "Cabala1861",
-    "ownerUuid": "872adaa8-f888-4a42-99b8-d3956cb689e7",
-    "signText": [
-      "Grass Block",
-      "1"
-    ],
-    "signType": "buy",
-    "signPrice": 0.75,
-    "invItems": [
-      {
-        "type": 2,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1196653409,
     "locWorld": "PirateCraft_1",
     "locX": -1844,
@@ -6618,6 +6595,29 @@
       }
     ],
     "invInStock": true
+  },
+  {
+    "id": -1191065469,
+    "locWorld": "PirateCraft_1",
+    "locX": 3975,
+    "locY": 75,
+    "locZ": -3617,
+    "ownerName": "Cabala1861",
+    "ownerUuid": "872adaa8-f888-4a42-99b8-d3956cb689e7",
+    "signText": [
+      "Grass Block",
+      "1"
+    ],
+    "signType": "buy",
+    "signPrice": 0.75,
+    "invItems": [
+      {
+        "type": 2,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": false
   },
   {
     "id": -1194909409,
@@ -10231,7 +10231,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1191991380,
@@ -10352,29 +10352,6 @@
     "invInStock": false
   },
   {
-    "id": -1193875868,
-    "locWorld": "PirateCraft_1",
-    "locX": 1049,
-    "locY": 27,
-    "locZ": -642,
-    "ownerName": "NothinB4",
-    "ownerUuid": "76e4fc86-05cc-47ba-9460-d7ef7f268c25",
-    "signText": [
-      "Potion o\u0027",
-      "Enchanting"
-    ],
-    "signType": "buy",
-    "signPrice": 0.5,
-    "invItems": [
-      {
-        "type": 384,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1196650750,
     "locWorld": "PirateCraft_1",
     "locX": -1841,
@@ -10401,6 +10378,29 @@
       }
     ],
     "invInStock": true
+  },
+  {
+    "id": -1193875868,
+    "locWorld": "PirateCraft_1",
+    "locX": 1049,
+    "locY": 27,
+    "locZ": -642,
+    "ownerName": "NothinB4",
+    "ownerUuid": "76e4fc86-05cc-47ba-9460-d7ef7f268c25",
+    "signText": [
+      "Potion o\u0027",
+      "Enchanting"
+    ],
+    "signType": "buy",
+    "signPrice": 0.5,
+    "invItems": [
+      {
+        "type": 384,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": false
   },
   {
     "id": -1196689027,
@@ -14535,9 +14535,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie",
+          "title": "Mogul Mackenzie2",
           "generation": "COPY_OF_COPY",
-          "pageCount": 50
+          "pageCount": 32
         }
       },
       {
@@ -14546,9 +14546,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie2",
+          "title": "Mogul Mackenzie",
           "generation": "COPY_OF_COPY",
-          "pageCount": 32
+          "pageCount": 50
         }
       }
     ],
@@ -15110,7 +15110,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195153704,
@@ -21042,7 +21042,9 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "power": 0
+          "displayName": "Angry Creeper",
+          "power": 1,
+          "effectCount": 2
         }
       },
       {
@@ -21050,9 +21052,7 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "displayName": "Angry Creeper",
-          "power": 1,
-          "effectCount": 2
+          "power": 0
         }
       }
     ],
@@ -22132,6 +22132,29 @@
     "invInStock": true
   },
   {
+    "id": -1196652448,
+    "locWorld": "PirateCraft_1",
+    "locX": -1843,
+    "locY": 73,
+    "locZ": 564,
+    "ownerName": "Skruff_",
+    "ownerUuid": "c82c001c-43b6-4d6c-925f-90de1392c553",
+    "signText": [
+      "§a64xGranite",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 8.0,
+    "invItems": [
+      {
+        "type": 1,
+        "amount": 64,
+        "durability": 1
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1195240561,
     "locWorld": "PirateCraft_1",
     "locX": -365,
@@ -22176,29 +22199,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196652448,
-    "locWorld": "PirateCraft_1",
-    "locX": -1843,
-    "locY": 73,
-    "locZ": 564,
-    "ownerName": "Skruff_",
-    "ownerUuid": "c82c001c-43b6-4d6c-925f-90de1392c553",
-    "signText": [
-      "§a64xGranite",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 8.0,
-    "invItems": [
-      {
-        "type": 1,
-        "amount": 64,
-        "durability": 1
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1194705185,
@@ -25158,7 +25158,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "STRENGTH",
+          "type": "SPEED",
           "extended": false,
           "upgraded": true
         }
@@ -25168,7 +25168,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "SPEED",
+          "type": "STRENGTH",
           "extended": false,
           "upgraded": true
         }
@@ -28566,6 +28566,23 @@
     "invInStock": false
   },
   {
+    "id": -1197217720,
+    "locWorld": "PirateCraft_1",
+    "locX": -2424,
+    "locY": 81,
+    "locZ": -6615,
+    "ownerName": "JelleJWZ",
+    "ownerUuid": "8f5c3f46-abc1-4ce4-b025-3488c2930623",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "toggle",
+    "signPrice": 0.0,
+    "invItems": [],
+    "invInStock": true
+  },
+  {
     "id": -1203823773,
     "locWorld": "PirateCraft_1",
     "locX": -9305,
@@ -30129,7 +30146,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196571250,
@@ -30966,7 +30983,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195207779,
@@ -34189,7 +34206,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196580896,
@@ -39439,7 +39456,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1187766842,
@@ -45063,6 +45080,29 @@
     "invInStock": false
   },
   {
+    "id": -1196993551,
+    "locWorld": "PirateCraft_1",
+    "locX": -2199,
+    "locY": 64,
+    "locZ": 1856,
+    "ownerName": "volcanoking12",
+    "ownerUuid": "ea9a3c83-0dd1-4064-8ad2-f4b9010f8914",
+    "signText": [
+      "",
+      "Food"
+    ],
+    "signType": "buy",
+    "signPrice": 5.0,
+    "invItems": [
+      {
+        "type": 360,
+        "amount": 3,
+        "durability": 0
+      }
+    ],
+    "invInStock": false
+  },
+  {
     "id": -1199579687,
     "locWorld": "PirateCraft_1",
     "locX": -4889,
@@ -45084,29 +45124,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196993551,
-    "locWorld": "PirateCraft_1",
-    "locX": -2199,
-    "locY": 64,
-    "locZ": 1856,
-    "ownerName": "volcanoking12",
-    "ownerUuid": "ea9a3c83-0dd1-4064-8ad2-f4b9010f8914",
-    "signText": [
-      "",
-      "Food"
-    ],
-    "signType": "buy",
-    "signPrice": 5.0,
-    "invItems": [
-      {
-        "type": 360,
-        "amount": 3,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1196753467,
@@ -50103,6 +50120,23 @@
     "invInStock": true
   },
   {
+    "id": -1197216759,
+    "locWorld": "PirateCraft_1",
+    "locX": -2423,
+    "locY": 81,
+    "locZ": -6615,
+    "ownerName": "JelleJWZ",
+    "ownerUuid": "8f5c3f46-abc1-4ce4-b025-3488c2930623",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "toggle",
+    "signPrice": 0.0,
+    "invItems": [],
+    "invInStock": true
+  },
+  {
     "id": -1195189310,
     "locWorld": "PirateCraft_1",
     "locX": -315,
@@ -50239,6 +50273,36 @@
       }
     ],
     "invInStock": true
+  },
+  {
+    "id": -1196740827,
+    "locWorld": "PirateCraft_1",
+    "locX": -1935,
+    "locY": 72,
+    "locZ": 628,
+    "ownerName": "TheSmilingFlea",
+    "ownerUuid": "e77d4d25-12d6-4283-b0a8-d2eaf90c36c5",
+    "signText": [
+      "§b§lGod Leggins.",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 170.0,
+    "invItems": [
+      {
+        "type": 312,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_ENVIRONMENTAL": 4,
+            "DURABILITY": 3,
+            "MENDING": 1
+          }
+        }
+      }
+    ],
+    "invInStock": false
   },
   {
     "id": -1200871553,
@@ -50399,7 +50463,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196399602,
@@ -52157,7 +52221,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1197232668,
@@ -52754,6 +52818,89 @@
         "type": 351,
         "amount": 4,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1190338666,
+    "locWorld": "PirateCraft_1",
+    "locX": 4728,
+    "locY": 89,
+    "locZ": -881,
+    "ownerName": "Mendoza1",
+    "ownerUuid": "a8fff920-aa0b-47ab-a6af-9c66f3f607db",
+    "signText": [
+      "melons stuff",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 2000.0,
+    "invItems": [
+      {
+        "type": 310,
+        "amount": 1,
+        "durability": 38,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_ENVIRONMENTAL": 4,
+            "OXYGEN": 3,
+            "WATER_WORKER": 1,
+            "DURABILITY": 3,
+            "MENDING": 1
+          }
+        }
+      },
+      {
+        "type": 312,
+        "amount": 1,
+        "durability": 61,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_ENVIRONMENTAL": 4,
+            "DURABILITY": 3,
+            "MENDING": 1
+          }
+        }
+      },
+      {
+        "type": 311,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_ENVIRONMENTAL": 4,
+            "DURABILITY": 3,
+            "MENDING": 1
+          }
+        }
+      },
+      {
+        "type": 276,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "DAMAGE_ALL": 5,
+            "KNOCKBACK": 2,
+            "LOOT_BONUS_MOBS": 3,
+            "MENDING": 1
+          }
+        }
+      },
+      {
+        "type": 313,
+        "amount": 1,
+        "durability": 125,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_ENVIRONMENTAL": 4,
+            "PROTECTION_FALL": 4,
+            "DEPTH_STRIDER": 3,
+            "DURABILITY": 3,
+            "MENDING": 1
+          }
+        }
       }
     ],
     "invInStock": true
@@ -53560,10 +53707,18 @@
     "invItems": [
       {
         "type": 397,
+        "amount": 7,
+        "durability": 3,
+        "meta": {
+          "owner": "Reptaria"
+        }
+      },
+      {
+        "type": 397,
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "MrCatSquid"
+          "owner": "Madmant64"
         }
       },
       {
@@ -53576,11 +53731,9 @@
       },
       {
         "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "_PigGuardian_"
-        }
+        "amount": 2,
+        "durability": 2,
+        "meta": {}
       },
       {
         "type": 397,
@@ -53589,37 +53742,6 @@
         "meta": {
           "owner": "LebroNation"
         }
-      },
-      {
-        "type": 397,
-        "amount": 61,
-        "durability": 3,
-        "meta": {
-          "displayName": "§rPig Zombie Head",
-          "owner": "MHF_PigZombie"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 7,
-        "durability": 3,
-        "meta": {
-          "owner": "Reptaria"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "Ghostlock2213"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 2,
-        "meta": {}
       },
       {
         "type": 397,
@@ -53634,7 +53756,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "FTB_player123"
+          "owner": "iLoveApples"
         }
       },
       {
@@ -53645,10 +53767,51 @@
       },
       {
         "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "DirectorAnivian"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Ghostlock2213"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "FTB_player123"
+        }
+      },
+      {
+        "type": 397,
         "amount": 1,
         "durability": 3,
         "meta": {
           "owner": "ItzDesire4Eva"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Cookie_Chris"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 37,
+        "durability": 3,
+        "meta": {
+          "displayName": "§rCave Spider Head",
+          "owner": "MHF_CaveSpider"
         }
       },
       {
@@ -53664,7 +53827,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "iLoveApples"
+          "owner": "_PigGuardian_"
         }
       },
       {
@@ -53672,32 +53835,16 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Madmant64"
+          "owner": "MrCatSquid"
         }
       },
       {
         "type": 397,
-        "amount": 37,
+        "amount": 61,
         "durability": 3,
         "meta": {
-          "displayName": "§rCave Spider Head",
-          "owner": "MHF_CaveSpider"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "Cookie_Chris"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "DirectorAnivian"
+          "displayName": "§rPig Zombie Head",
+          "owner": "MHF_PigZombie"
         }
       }
     ],
@@ -55699,7 +55846,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196477572,
@@ -56998,7 +57145,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196378109,
@@ -58964,34 +59111,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196681979,
-    "locWorld": "PirateCraft_1",
-    "locX": -1874,
-    "locY": 80,
-    "locZ": 607,
-    "ownerName": "ArtificialDemon",
-    "ownerUuid": "47a9f1a5-833c-4232-8a3a-d20ae591bcb4",
-    "signText": [
-      "Splash Health",
-      "2 Potion"
-    ],
-    "signType": "buy",
-    "signPrice": 6.5,
-    "invItems": [
-      {
-        "type": 438,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "type": "INSTANT_HEAL",
-          "extended": false,
-          "upgraded": true
-        }
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1195914457,
@@ -63384,7 +63503,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194633870,
@@ -66603,6 +66722,34 @@
     "signType": "toggle",
     "signPrice": 150.0,
     "invItems": [],
+    "invInStock": true
+  },
+  {
+    "id": -1196748592,
+    "locWorld": "PirateCraft_1",
+    "locX": -1943,
+    "locY": 70,
+    "locZ": 613,
+    "ownerName": "TheSmilingFlea",
+    "ownerUuid": "e77d4d25-12d6-4283-b0a8-d2eaf90c36c5",
+    "signText": [
+      "§4§lHealth Potion",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 4.0,
+    "invItems": [
+      {
+        "type": 438,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "INSTANT_HEAL",
+          "extended": false,
+          "upgraded": true
+        }
+      }
+    ],
     "invInStock": true
   },
   {
@@ -70204,7 +70351,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194748081,
@@ -70299,6 +70446,36 @@
         "type": 265,
         "amount": 1,
         "durability": 0
+      }
+    ],
+    "invInStock": false
+  },
+  {
+    "id": -1196741757,
+    "locWorld": "PirateCraft_1",
+    "locX": -1936,
+    "locY": 73,
+    "locZ": 628,
+    "ownerName": "TheSmilingFlea",
+    "ownerUuid": "e77d4d25-12d6-4283-b0a8-d2eaf90c36c5",
+    "signText": [
+      "§b§lGod",
+      "§b§lChestPlate"
+    ],
+    "signType": "buy",
+    "signPrice": 200.0,
+    "invItems": [
+      {
+        "type": 311,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_ENVIRONMENTAL": 4,
+            "DURABILITY": 3,
+            "MENDING": 1
+          }
+        }
       }
     ],
     "invInStock": false
@@ -78589,6 +78766,29 @@
     "invInStock": true
   },
   {
+    "id": -1196654375,
+    "locWorld": "PirateCraft_1",
+    "locX": -1845,
+    "locY": 73,
+    "locZ": 559,
+    "ownerName": "Skruff_",
+    "ownerUuid": "c82c001c-43b6-4d6c-925f-90de1392c553",
+    "signText": [
+      "§a64xGlass",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 8.0,
+    "invItems": [
+      {
+        "type": 20,
+        "amount": 64,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1199379408,
     "locWorld": "PirateCraft_1",
     "locX": -4681,
@@ -80082,29 +80282,6 @@
     "invInStock": false
   },
   {
-    "id": -1196990700,
-    "locWorld": "PirateCraft_1",
-    "locX": -2196,
-    "locY": 63,
-    "locZ": 1855,
-    "ownerName": "volcanoking12",
-    "ownerUuid": "ea9a3c83-0dd1-4064-8ad2-f4b9010f8914",
-    "signText": [
-      "1",
-      "Sword"
-    ],
-    "signType": "buy",
-    "signPrice": 4.0,
-    "invItems": [
-      {
-        "type": 272,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1200715222,
     "locWorld": "PirateCraft_1",
     "locX": -6066,
@@ -80615,6 +80792,29 @@
       {
         "type": 45,
         "amount": 16,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196693010,
+    "locWorld": "PirateCraft_1",
+    "locX": -1885,
+    "locY": 67,
+    "locZ": 550,
+    "ownerName": "Trafalgar_Law",
+    "ownerUuid": "47130f8c-57b4-4fd1-9242-5ab2d8d8cae9",
+    "signText": [
+      "Gravel",
+      "x64"
+    ],
+    "signType": "sell",
+    "signPrice": 2.5,
+    "invItems": [
+      {
+        "type": 13,
+        "amount": 64,
         "durability": 0
       }
     ],
@@ -85181,6 +85381,38 @@
     "invInStock": false
   },
   {
+    "id": -1196740796,
+    "locWorld": "PirateCraft_1",
+    "locX": -1935,
+    "locY": 73,
+    "locZ": 628,
+    "ownerName": "TheSmilingFlea",
+    "ownerUuid": "e77d4d25-12d6-4283-b0a8-d2eaf90c36c5",
+    "signText": [
+      "§b§lGod Helmet.",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 450.0,
+    "invItems": [
+      {
+        "type": 310,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_ENVIRONMENTAL": 4,
+            "OXYGEN": 3,
+            "WATER_WORKER": 1,
+            "DURABILITY": 3,
+            "MENDING": 1
+          }
+        }
+      }
+    ],
+    "invInStock": false
+  },
+  {
     "id": -1195890915,
     "locWorld": "PirateCraft_1",
     "locX": -1047,
@@ -85849,6 +86081,32 @@
     "invInStock": false
   },
   {
+    "id": -1195575928,
+    "locWorld": "PirateCraft_1",
+    "locX": -728,
+    "locY": 76,
+    "locZ": 5476,
+    "ownerName": "Samuel_Shoot",
+    "ownerUuid": "79871ff3-3472-450a-a3f7-deeb06835ce3",
+    "signText": [
+      "clone009tm head",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 5.0,
+    "invItems": [
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "Clone009TM"
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1195158562,
     "locWorld": "PirateCraft_1",
     "locX": -283,
@@ -85886,32 +86144,6 @@
     "signType": "device",
     "signPrice": 1000.0,
     "invItems": [],
-    "invInStock": true
-  },
-  {
-    "id": -1195575928,
-    "locWorld": "PirateCraft_1",
-    "locX": -728,
-    "locY": 76,
-    "locZ": 5476,
-    "ownerName": "Samuel_Shoot",
-    "ownerUuid": "79871ff3-3472-450a-a3f7-deeb06835ce3",
-    "signText": [
-      "clone009tm head",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 5.0,
-    "invItems": [
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "Clone009TM"
-        }
-      }
-    ],
     "invInStock": true
   },
   {
@@ -93747,6 +93979,23 @@
     "invInStock": true
   },
   {
+    "id": -1197218681,
+    "locWorld": "PirateCraft_1",
+    "locX": -2425,
+    "locY": 81,
+    "locZ": -6615,
+    "ownerName": "JelleJWZ",
+    "ownerUuid": "8f5c3f46-abc1-4ce4-b025-3488c2930623",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "toggle",
+    "signPrice": 0.0,
+    "invItems": [],
+    "invInStock": true
+  },
+  {
     "id": -1189401120,
     "locWorld": "PirateCraft_1",
     "locX": 5703,
@@ -93853,6 +94102,38 @@
           "title": "10 recipes",
           "generation": "COPY_OF_COPY",
           "pageCount": 5
+        }
+      }
+    ],
+    "invInStock": false
+  },
+  {
+    "id": -1196741788,
+    "locWorld": "PirateCraft_1",
+    "locX": -1936,
+    "locY": 72,
+    "locZ": 628,
+    "ownerName": "TheSmilingFlea",
+    "ownerUuid": "e77d4d25-12d6-4283-b0a8-d2eaf90c36c5",
+    "signText": [
+      "§b§lGod Boots.",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 450.0,
+    "invItems": [
+      {
+        "type": 313,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_ENVIRONMENTAL": 4,
+            "PROTECTION_FALL": 4,
+            "DEPTH_STRIDER": 3,
+            "DURABILITY": 3,
+            "MENDING": 1
+          }
         }
       }
     ],
@@ -98737,7 +99018,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195193153,
@@ -100931,6 +101212,34 @@
     "invInStock": true
   },
   {
+    "id": -1196682316,
+    "locWorld": "PirateCraft_1",
+    "locX": -1874,
+    "locY": 69,
+    "locZ": 611,
+    "ownerName": "ArtificialDemon",
+    "ownerUuid": "47a9f1a5-833c-4232-8a3a-d20ae591bcb4",
+    "signText": [
+      "Splash Health 2",
+      "Potion (x1)"
+    ],
+    "signType": "buy",
+    "signPrice": 6.5,
+    "invItems": [
+      {
+        "type": 438,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "INSTANT_HEAL",
+          "extended": false,
+          "upgraded": true
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1194596455,
     "locWorld": "PirateCraft_1",
     "locX": 300,
@@ -101402,6 +101711,23 @@
         }
       }
     ],
+    "invInStock": true
+  },
+  {
+    "id": -1197206281,
+    "locWorld": "PirateCraft_1",
+    "locX": -2412,
+    "locY": 78,
+    "locZ": -6615,
+    "ownerName": "JelleJWZ",
+    "ownerUuid": "8f5c3f46-abc1-4ce4-b025-3488c2930623",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "toggle",
+    "signPrice": 0.0,
+    "invItems": [],
     "invInStock": true
   },
   {
@@ -106754,6 +107080,29 @@
     "invInStock": true
   },
   {
+    "id": -1196654374,
+    "locWorld": "PirateCraft_1",
+    "locX": -1845,
+    "locY": 73,
+    "locZ": 560,
+    "ownerName": "Skruff_",
+    "ownerUuid": "c82c001c-43b6-4d6c-925f-90de1392c553",
+    "signText": [
+      "§416xObsidian!",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 8.0,
+    "invItems": [
+      {
+        "type": 49,
+        "amount": 16,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1196128010,
     "locWorld": "PirateCraft_1",
     "locX": -1297,
@@ -106801,29 +107150,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196654374,
-    "locWorld": "PirateCraft_1",
-    "locX": -1845,
-    "locY": 73,
-    "locZ": 560,
-    "ownerName": "Skruff_",
-    "ownerUuid": "c82c001c-43b6-4d6c-925f-90de1392c553",
-    "signText": [
-      "§416xObsidian!",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 8.0,
-    "invItems": [
-      {
-        "type": 49,
-        "amount": 16,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1193486633,
@@ -111344,7 +111670,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195080537,
@@ -112974,12 +113300,62 @@
     "ownerName": "Trafalgar_Law",
     "ownerUuid": "47130f8c-57b4-4fd1-9242-5ab2d8d8cae9",
     "signText": [
-      "Ink Sack",
+      "Ink Sac",
       "x1"
     ],
     "signType": "sell",
     "signPrice": 2.0,
     "invItems": [
+      {
+        "type": 3,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 4,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 276,
+        "amount": 1,
+        "durability": 1,
+        "meta": {
+          "displayName": "Looting 3 (Konstruktor)",
+          "enchantments": {
+            "DAMAGE_ALL": 5,
+            "FIRE_ASPECT": 2,
+            "LOOT_BONUS_MOBS": 3,
+            "DURABILITY": 3,
+            "MENDING": 1
+          }
+        }
+      },
+      {
+        "type": 372,
+        "amount": 3,
+        "durability": 0
+      },
+      {
+        "type": 350,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 330,
+        "amount": 2,
+        "durability": 0
+      },
+      {
+        "type": 352,
+        "amount": 9,
+        "durability": 0
+      },
+      {
+        "type": 349,
+        "amount": 1,
+        "durability": 3
+      },
       {
         "type": 351,
         "amount": 1,
@@ -114599,6 +114975,23 @@
     ],
     "signType": "device",
     "signPrice": 6.0,
+    "invItems": [],
+    "invInStock": true
+  },
+  {
+    "id": -1197206285,
+    "locWorld": "PirateCraft_1",
+    "locX": -2412,
+    "locY": 78,
+    "locZ": -6619,
+    "ownerName": "JelleJWZ",
+    "ownerUuid": "8f5c3f46-abc1-4ce4-b025-3488c2930623",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "toggle",
+    "signPrice": 0.0,
     "invItems": [],
     "invInStock": true
   },
