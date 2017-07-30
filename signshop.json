@@ -705,7 +705,7 @@
         "durability": 1
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196569328,
@@ -6927,29 +6927,6 @@
     "invInStock": true
   },
   {
-    "id": -1195240557,
-    "locWorld": "PirateCraft_1",
-    "locX": -365,
-    "locY": 64,
-    "locZ": -7624,
-    "ownerName": "Shons",
-    "ownerUuid": "d0e2d75b-d427-45fa-93de-e256513485bc",
-    "signText": [
-      "1 saddle",
-      "ride it kide"
-    ],
-    "signType": "buy",
-    "signPrice": 35.0,
-    "invItems": [
-      {
-        "type": 329,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1196762096,
     "locWorld": "PirateCraft_1",
     "locX": -1957,
@@ -6967,6 +6944,29 @@
       {
         "type": 89,
         "amount": 8,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1195240557,
+    "locWorld": "PirateCraft_1",
+    "locX": -365,
+    "locY": 64,
+    "locZ": -7624,
+    "ownerName": "Shons",
+    "ownerUuid": "d0e2d75b-d427-45fa-93de-e256513485bc",
+    "signText": [
+      "1 saddle",
+      "ride it kide"
+    ],
+    "signType": "buy",
+    "signPrice": 35.0,
+    "invItems": [
+      {
+        "type": 329,
+        "amount": 1,
         "durability": 0
       }
     ],
@@ -11996,7 +11996,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196618100,
@@ -25615,7 +25615,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "SPEED",
+          "type": "STRENGTH",
           "extended": false,
           "upgraded": true
         }
@@ -25625,7 +25625,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "STRENGTH",
+          "type": "SPEED",
           "extended": false,
           "upgraded": true
         }
@@ -30631,7 +30631,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195158504,
@@ -37686,7 +37686,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195164275,
@@ -41661,7 +41661,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1194595894,
@@ -54549,20 +54549,19 @@
       },
       {
         "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "Madmant64"
+        }
+      },
+      {
+        "type": 397,
         "amount": 61,
         "durability": 3,
         "meta": {
           "displayName": "§rPig Zombie Head",
           "owner": "MHF_PigZombie"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 37,
-        "durability": 3,
-        "meta": {
-          "displayName": "§rCave Spider Head",
-          "owner": "MHF_CaveSpider"
         }
       },
       {
@@ -54575,70 +54574,11 @@
       },
       {
         "type": 397,
-        "amount": 1,
+        "amount": 37,
         "durability": 3,
         "meta": {
-          "owner": "Kingcrafter2007"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 7,
-        "durability": 3,
-        "meta": {
-          "owner": "Reptaria"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 2,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "iLoveApples"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "FTB_player123"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "Madmant64"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "bmr312"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "LebroNation"
+          "displayName": "§rCave Spider Head",
+          "owner": "MHF_CaveSpider"
         }
       },
       {
@@ -54662,7 +54602,43 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "ItzDesire4Eva"
+          "owner": "iLoveApples"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "LebroNation"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 2,
+        "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "FTB_player123"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "bmr312"
         }
       },
       {
@@ -54675,10 +54651,34 @@
       },
       {
         "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "ItzDesire4Eva"
+        }
+      },
+      {
+        "type": 397,
         "amount": 2,
         "durability": 3,
         "meta": {
           "owner": "Cookie_Chris"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 7,
+        "durability": 3,
+        "meta": {
+          "owner": "Reptaria"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "Kingcrafter2007"
         }
       }
     ],
@@ -55660,7 +55660,7 @@
         "durability": 2
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1201794829,
@@ -56357,7 +56357,7 @@
         "durability": 1
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196643938,
@@ -61431,7 +61431,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1187779292,
@@ -62732,7 +62732,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1200567313,
@@ -62947,7 +62947,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195252144,
@@ -65679,7 +65679,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1198991906,
@@ -68221,7 +68221,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1191257198,
@@ -69113,7 +69113,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196033106,
@@ -73778,7 +73778,7 @@
         "durability": 15
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195054666,
@@ -77738,7 +77738,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 100.0,
+    "signPrice": 95.0,
     "invItems": [
       {
         "type": 403,
@@ -79892,7 +79892,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1198100454,
@@ -80942,7 +80942,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195439771,
@@ -88987,7 +88987,7 @@
         "durability": 12
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196121679,
@@ -91869,7 +91869,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194623260,
@@ -93077,7 +93077,7 @@
     "ownerUuid": "986cf6da-99f9-4df0-9f1d-69e47307cedc",
     "signText": [
       "§l15 Emeralds",
-      "§land 1 book for"
+      "§land one book"
     ],
     "signType": "trade",
     "signPrice": 1.0,
@@ -96111,7 +96111,7 @@
         "durability": 13
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196446839,
@@ -97102,7 +97102,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196431563,
@@ -97396,7 +97396,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195168110,
@@ -101029,7 +101029,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1199571983,
@@ -106245,7 +106245,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1192408402,
@@ -106536,7 +106536,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195521539,
@@ -107678,7 +107678,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1194671491,
@@ -109213,7 +109213,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195878550,
@@ -112389,7 +112389,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1199001954,
@@ -112482,7 +112482,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196446847,
