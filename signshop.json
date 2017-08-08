@@ -1249,7 +1249,7 @@
     "locX": 64,
     "locY": 40,
     "locZ": 1386,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "",
@@ -2578,32 +2578,6 @@
         "type": 95,
         "amount": 16,
         "durability": 2
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1194389568,
-    "locWorld": "PirateCraft_1",
-    "locX": 510,
-    "locY": 24,
-    "locZ": 3730,
-    "ownerName": "ArtificialDemon",
-    "ownerUuid": "47a9f1a5-833c-4232-8a3a-d20ae591bcb4",
-    "signText": [
-      "Fireworks",
-      "x3"
-    ],
-    "signType": "buy",
-    "signPrice": 0.75,
-    "invItems": [
-      {
-        "type": 401,
-        "amount": 3,
-        "durability": 0,
-        "meta": {
-          "power": 3
-        }
       }
     ],
     "invInStock": true
@@ -5194,7 +5168,7 @@
     "locX": -843,
     "locY": 67,
     "locZ": -1493,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "Swiftness2 Potion",
@@ -8904,7 +8878,7 @@
     "locX": -3815,
     "locY": 60,
     "locZ": -2993,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "DakotaReef",
@@ -11174,7 +11148,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1191257203,
@@ -11522,7 +11496,7 @@
     "locX": -1946,
     "locY": 69,
     "locZ": 692,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "x64 Stone",
@@ -12690,7 +12664,7 @@
     "locX": -3762,
     "locY": 64,
     "locZ": -3013,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "4 slices. Yum!",
@@ -13820,7 +13794,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1193488552,
@@ -14571,9 +14545,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie",
+          "title": "Mogul Mackenzie2",
           "generation": "COPY_OF_COPY",
-          "pageCount": 50
+          "pageCount": 32
         }
       },
       {
@@ -14582,9 +14556,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie2",
+          "title": "Mogul Mackenzie",
           "generation": "COPY_OF_COPY",
-          "pageCount": 32
+          "pageCount": 50
         }
       }
     ],
@@ -18497,7 +18471,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196686098,
@@ -20320,7 +20294,7 @@
     "locX": -843,
     "locY": 67,
     "locZ": -1492,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "Invisibility Potion",
@@ -21022,7 +20996,9 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "power": 0
+          "displayName": "Angry Creeper",
+          "power": 1,
+          "effectCount": 2
         }
       },
       {
@@ -21030,9 +21006,7 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "displayName": "Angry Creeper",
-          "power": 1,
-          "effectCount": 2
+          "power": 0
         }
       }
     ],
@@ -23454,29 +23428,6 @@
     "invInStock": true
   },
   {
-    "id": -1191494630,
-    "locWorld": "PirateCraft_1",
-    "locX": 3528,
-    "locY": 69,
-    "locZ": -3025,
-    "ownerName": "Alverhuysen",
-    "ownerUuid": "de5e8d3f-46f5-4e83-9bf4-cf58fc221a87",
-    "signText": [
-      "64 Carrots",
-      "Nom nom nom"
-    ],
-    "signType": "buy",
-    "signPrice": 5.0,
-    "invItems": [
-      {
-        "type": 391,
-        "amount": 64,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1194738531,
     "locWorld": "PirateCraft_1",
     "locX": 152,
@@ -23498,6 +23449,29 @@
       }
     ],
     "invInStock": true
+  },
+  {
+    "id": -1191494630,
+    "locWorld": "PirateCraft_1",
+    "locX": 3528,
+    "locY": 69,
+    "locZ": -3025,
+    "ownerName": "Alverhuysen",
+    "ownerUuid": "de5e8d3f-46f5-4e83-9bf4-cf58fc221a87",
+    "signText": [
+      "64 Carrots",
+      "Nom nom nom"
+    ],
+    "signType": "buy",
+    "signPrice": 5.0,
+    "invItems": [
+      {
+        "type": 391,
+        "amount": 64,
+        "durability": 0
+      }
+    ],
+    "invInStock": false
   },
   {
     "id": -1194729802,
@@ -25105,7 +25079,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "STRENGTH",
+          "type": "SPEED",
           "extended": false,
           "upgraded": true
         }
@@ -25115,7 +25089,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "SPEED",
+          "type": "STRENGTH",
           "extended": false,
           "upgraded": true
         }
@@ -29910,7 +29884,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196678568,
@@ -32460,29 +32434,6 @@
     "invInStock": true
   },
   {
-    "id": -1196685144,
-    "locWorld": "PirateCraft_1",
-    "locX": -1877,
-    "locY": 71,
-    "locZ": 604,
-    "ownerName": "Cysteen",
-    "ownerUuid": "177442f9-ad99-4f8f-86fd-e0ae85a30293",
-    "signText": [
-      "Lead",
-      "1"
-    ],
-    "signType": "buy",
-    "signPrice": 5.0,
-    "invItems": [
-      {
-        "type": 420,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1194738564,
     "locWorld": "PirateCraft_1",
     "locX": 152,
@@ -32499,6 +32450,29 @@
     "invItems": [
       {
         "type": 388,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196685144,
+    "locWorld": "PirateCraft_1",
+    "locX": -1877,
+    "locY": 71,
+    "locZ": 604,
+    "ownerName": "Cysteen",
+    "ownerUuid": "177442f9-ad99-4f8f-86fd-e0ae85a30293",
+    "signText": [
+      "Lead",
+      "1"
+    ],
+    "signType": "buy",
+    "signPrice": 5.0,
+    "invItems": [
+      {
+        "type": 420,
         "amount": 1,
         "durability": 0
       }
@@ -34338,7 +34312,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1201784163,
@@ -34415,7 +34389,7 @@
     "locX": -1610,
     "locY": 73,
     "locZ": -421,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "Mini Elevator Kit",
@@ -35572,7 +35546,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1198086825,
@@ -37014,7 +36988,7 @@
     "locX": -1612,
     "locY": 69,
     "locZ": -417,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "2 repeater",
@@ -37287,7 +37261,7 @@
     "locX": -3806,
     "locY": 64,
     "locZ": -2989,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "Shoot at Gate",
@@ -46637,7 +46611,7 @@
         "durability": 1
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195720166,
@@ -47502,7 +47476,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1200558707,
@@ -47580,6 +47554,29 @@
     "invInStock": true
   },
   {
+    "id": -1194742406,
+    "locWorld": "PirateCraft_1",
+    "locX": 148,
+    "locY": 66,
+    "locZ": -2528,
+    "ownerName": "MysticTitan",
+    "ownerUuid": "000aed2a-d619-47bc-9883-af842dfcac02",
+    "signText": [
+      "Smooth Stone",
+      "x64"
+    ],
+    "signType": "buy",
+    "signPrice": 2.0,
+    "invItems": [
+      {
+        "type": 1,
+        "amount": 64,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1194980196,
     "locWorld": "PirateCraft_1",
     "locX": -94,
@@ -47620,29 +47617,6 @@
       {
         "type": 291,
         "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1194742406,
-    "locWorld": "PirateCraft_1",
-    "locX": 148,
-    "locY": 66,
-    "locZ": -2528,
-    "ownerName": "MysticTitan",
-    "ownerUuid": "000aed2a-d619-47bc-9883-af842dfcac02",
-    "signText": [
-      "Smooth Stone",
-      "x64"
-    ],
-    "signType": "buy",
-    "signPrice": 2.0,
-    "invItems": [
-      {
-        "type": 1,
-        "amount": 64,
         "durability": 0
       }
     ],
@@ -50928,7 +50902,7 @@
     "locX": -1945,
     "locY": 70,
     "locZ": 698,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "x1 Silk Touch",
@@ -50971,7 +50945,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194595976,
@@ -53466,6 +53440,14 @@
     "invItems": [
       {
         "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Ghostlock2213"
+        }
+      },
+      {
+        "type": 397,
         "amount": 37,
         "durability": 3,
         "meta": {
@@ -53478,7 +53460,68 @@
         "amount": 1,
         "durability": 3,
         "meta": {
+          "owner": "bmr312"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "FTB_player123"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "iLoveApples"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 2,
+        "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
           "owner": "MrCatSquid"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "LebroNation"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 61,
+        "durability": 3,
+        "meta": {
+          "displayName": "§rPig Zombie Head",
+          "owner": "MHF_PigZombie"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "_PigGuardian_"
         }
       },
       {
@@ -53499,63 +53542,10 @@
       },
       {
         "type": 397,
-        "amount": 1,
+        "amount": 7,
         "durability": 3,
         "meta": {
-          "owner": "Madmant64"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "Ghostlock2213"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "bmr312"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 2,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "LebroNation"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "iLoveApples"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 61,
-        "durability": 3,
-        "meta": {
-          "displayName": "§rPig Zombie Head",
-          "owner": "MHF_PigZombie"
+          "owner": "Reptaria"
         }
       },
       {
@@ -53571,22 +53561,6 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "FTB_player123"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "_PigGuardian_"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
           "owner": "Kingcrafter2007"
         }
       },
@@ -53595,15 +53569,15 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "ItzDesire4Eva"
+          "owner": "Madmant64"
         }
       },
       {
         "type": 397,
-        "amount": 7,
+        "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Reptaria"
+          "owner": "ItzDesire4Eva"
         }
       }
     ],
@@ -55846,7 +55820,7 @@
     "locX": -3804,
     "locY": 59,
     "locZ": -2999,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "DakotaReef",
@@ -59762,7 +59736,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196720614,
@@ -65769,7 +65743,7 @@
     "locX": -1946,
     "locY": 70,
     "locZ": 699,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "x1 Fire Aspect II",
@@ -67617,7 +67591,7 @@
     "locX": -1950,
     "locY": 70,
     "locZ": 693,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "x64 White Wool",
@@ -68069,7 +68043,7 @@
     "locX": -1950,
     "locY": 70,
     "locZ": 697,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "x64 Glass",
@@ -69267,7 +69241,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1190336278,
@@ -73365,7 +73339,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1190259596,
@@ -74332,7 +74306,7 @@
     "locX": -1948,
     "locY": 71,
     "locZ": 692,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "x16 Oak Logs",
@@ -75001,29 +74975,6 @@
       }
     ],
     "invInStock": true
-  },
-  {
-    "id": -1196550396,
-    "locWorld": "PirateCraft_1",
-    "locX": -1734,
-    "locY": 65,
-    "locZ": -1885,
-    "ownerName": "weeleeman",
-    "ownerUuid": "01befc1d-e7cb-4a58-b7d1-7764b26f08d2",
-    "signText": [
-      "Freshly",
-      "Baked Bread"
-    ],
-    "signType": "buy",
-    "signPrice": 2.0,
-    "invItems": [
-      {
-        "type": 297,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
   },
   {
     "id": -1200871522,
@@ -76428,7 +76379,7 @@
     "locX": 3158,
     "locY": 91,
     "locZ": 63,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "Harvest All Crops",
@@ -79295,7 +79246,7 @@
     "locX": -1946,
     "locY": 71,
     "locZ": 699,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "Invisibility Potion",
@@ -83926,7 +83877,7 @@
     "locX": -1949,
     "locY": 69,
     "locZ": 696,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "x64 Potatoes",
@@ -84618,7 +84569,7 @@
     "locX": -4290,
     "locY": 66,
     "locZ": -2865,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "64 cobble for",
@@ -88503,7 +88454,7 @@
     "locX": -4285,
     "locY": 66,
     "locZ": -2856,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "64 Oak Planks",
@@ -90671,23 +90622,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1199550315,
-    "locWorld": "PirateCraft_1",
-    "locX": -4853,
-    "locY": 14,
-    "locZ": -2864,
-    "ownerName": "4orange",
-    "ownerUuid": "705b2d22-8489-4e02-b21b-9cb0837d3de3",
-    "signText": [
-      "vault",
-      ""
-    ],
-    "signType": "device",
-    "signPrice": 500.0,
-    "invItems": [],
-    "invInStock": true
   },
   {
     "id": -1196108245,
@@ -93793,7 +93727,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196654464,
@@ -93816,7 +93750,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196720611,
@@ -95683,7 +95617,7 @@
     "locX": -1612,
     "locY": 69,
     "locZ": -418,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "4 redstone torch",
@@ -98778,7 +98712,7 @@
     "locX": -1612,
     "locY": 69,
     "locZ": -416,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "10 redstone",
@@ -100405,29 +100339,6 @@
       {
         "type": 350,
         "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
-    "id": -1196550458,
-    "locWorld": "PirateCraft_1",
-    "locX": -1734,
-    "locY": 63,
-    "locZ": -1885,
-    "ownerName": "weeleeman",
-    "ownerUuid": "01befc1d-e7cb-4a58-b7d1-7764b26f08d2",
-    "signText": [
-      "10",
-      "Fresh Eggs"
-    ],
-    "signType": "buy",
-    "signPrice": 5.0,
-    "invItems": [
-      {
-        "type": 344,
-        "amount": 10,
         "durability": 0
       }
     ],
@@ -102622,7 +102533,7 @@
     "locX": -4293,
     "locY": 66,
     "locZ": -2858,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "Anything would",
@@ -105753,7 +105664,7 @@
     "locX": -4256,
     "locY": 69,
     "locZ": -2805,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "DakotaReef",
@@ -111171,7 +111082,7 @@
     "locX": -1949,
     "locY": 70,
     "locZ": 694,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "x64 Carrots",
@@ -111534,7 +111445,7 @@
     "locX": -3820,
     "locY": 64,
     "locZ": -2989,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "Open Gate",
@@ -111854,7 +111765,7 @@
     "locX": -1945,
     "locY": 70,
     "locZ": 696,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "x1 Slimeball",
@@ -112596,7 +112507,7 @@
     "locX": -4258,
     "locY": 72,
     "locZ": -2809,
-    "ownerName": "DakotaReef",
+    "ownerName": "CaptainReef",
     "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
     "signText": [
       "DakotaReef",
