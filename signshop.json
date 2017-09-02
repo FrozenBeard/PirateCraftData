@@ -15797,7 +15797,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1197565233,
@@ -19232,6 +19232,29 @@
     "invInStock": false
   },
   {
+    "id": -1196760949,
+    "locWorld": "PirateCraft_1",
+    "locX": -1956,
+    "locY": 71,
+    "locZ": 718,
+    "ownerName": "Dark_101",
+    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
+    "signText": [
+      "Glass",
+      "x32"
+    ],
+    "signType": "buy",
+    "signPrice": 4.0,
+    "invItems": [
+      {
+        "type": 20,
+        "amount": 32,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1191185820,
     "locWorld": "PirateCraft_1",
     "locX": 3857,
@@ -21955,7 +21978,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1201729701,
@@ -25215,7 +25238,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "STRENGTH",
+          "type": "SPEED",
           "extended": false,
           "upgraded": true
         }
@@ -25225,7 +25248,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "SPEED",
+          "type": "STRENGTH",
           "extended": false,
           "upgraded": true
         }
@@ -28207,7 +28230,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196726324,
@@ -28996,6 +29019,7 @@
     ],
     "signType": "device",
     "signPrice": 2500.0,
+    "invItems": [],
     "invInStock": true
   },
   {
@@ -29184,6 +29208,23 @@
     "invInStock": false
   },
   {
+    "id": -1199548697,
+    "locWorld": "PirateCraft_1",
+    "locX": -4852,
+    "locY": 35,
+    "locZ": -2858,
+    "ownerName": "4orange",
+    "ownerUuid": "705b2d22-8489-4e02-b21b-9cb0837d3de3",
+    "signText": [
+      "get out",
+      ""
+    ],
+    "signType": "device",
+    "signPrice": 200.0,
+    "invItems": [],
+    "invInStock": true
+  },
+  {
     "id": -1195241552,
     "locWorld": "PirateCraft_1",
     "locX": -366,
@@ -29204,22 +29245,6 @@
         "durability": 0
       }
     ],
-    "invInStock": true
-  },
-  {
-    "id": -1199548697,
-    "locWorld": "PirateCraft_1",
-    "locX": -4852,
-    "locY": 35,
-    "locZ": -2858,
-    "ownerName": "4orange",
-    "ownerUuid": "705b2d22-8489-4e02-b21b-9cb0837d3de3",
-    "signText": [
-      "get out",
-      ""
-    ],
-    "signType": "device",
-    "signPrice": 200.0,
     "invInStock": true
   },
   {
@@ -29989,7 +30014,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1190357367,
@@ -53502,46 +53527,11 @@
     "invItems": [
       {
         "type": 397,
-        "amount": 1,
+        "amount": 37,
         "durability": 3,
         "meta": {
-          "owner": "ItzDesire4Eva"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "SIRHAYDEN12"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "Cookie_Chris"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 2,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "DirectorAnivian"
+          "displayName": "§rCave Spider Head",
+          "owner": "MHF_CaveSpider"
         }
       },
       {
@@ -53554,12 +53544,71 @@
       },
       {
         "type": 397,
-        "amount": 37,
+        "amount": 2,
         "durability": 3,
         "meta": {
-          "displayName": "§rCave Spider Head",
-          "owner": "MHF_CaveSpider"
+          "owner": "LebroNation"
         }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "bmr312"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "FTB_player123"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Ghostlock2213"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "iLoveApples"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "Madmant64"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 2,
+        "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 7,
+        "durability": 3,
+        "meta": {
+          "owner": "Reptaria"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
       },
       {
         "type": 397,
@@ -53580,10 +53629,18 @@
       },
       {
         "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "DirectorAnivian"
+        }
+      },
+      {
+        "type": 397,
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Madmant64"
+          "owner": "SIRHAYDEN12"
         }
       },
       {
@@ -53596,26 +53653,10 @@
       },
       {
         "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "iLoveApples"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 7,
-        "durability": 3,
-        "meta": {
-          "owner": "Reptaria"
-        }
-      },
-      {
-        "type": 397,
         "amount": 2,
         "durability": 3,
         "meta": {
-          "owner": "Ghostlock2213"
+          "owner": "Cookie_Chris"
         }
       },
       {
@@ -53623,23 +53664,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "FTB_player123"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "LebroNation"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "bmr312"
+          "owner": "ItzDesire4Eva"
         }
       }
     ],
@@ -54506,7 +54531,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195207536,
@@ -57372,6 +57397,29 @@
     "invInStock": false
   },
   {
+    "id": -1196677637,
+    "locWorld": "PirateCraft_1",
+    "locX": -1869,
+    "locY": 67,
+    "locZ": 547,
+    "ownerName": "dupleximp",
+    "ownerUuid": "98f6cc90-568b-4ce2-832d-6c00dd2ec83e",
+    "signText": [
+      "64 Baked potatos",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 5.0,
+    "invItems": [
+      {
+        "type": 393,
+        "amount": 64,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1192413082,
     "locWorld": "PirateCraft_1",
     "locX": 2569,
@@ -57398,29 +57446,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196677637,
-    "locWorld": "PirateCraft_1",
-    "locX": -1869,
-    "locY": 67,
-    "locZ": 547,
-    "ownerName": "dupleximp",
-    "ownerUuid": "98f6cc90-568b-4ce2-832d-6c00dd2ec83e",
-    "signText": [
-      "64 Baked potatos",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 5.0,
-    "invItems": [
-      {
-        "type": 393,
-        "amount": 64,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1196520869,
@@ -61569,7 +61594,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196058678,
@@ -64454,7 +64479,7 @@
         "durability": 1
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195241518,
@@ -74172,7 +74197,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196073171,
@@ -87672,29 +87697,6 @@
     "invInStock": false
   },
   {
-    "id": -1196518947,
-    "locWorld": "PirateCraft_1",
-    "locX": -1703,
-    "locY": 71,
-    "locZ": -413,
-    "ownerName": "GrunkleStank",
-    "ownerUuid": "b4bb773e-977a-4618-81e5-f62ad9e6720a",
-    "signText": [
-      "Eye Of the Spider",
-      "x64"
-    ],
-    "signType": "buy",
-    "signPrice": 8.0,
-    "invItems": [
-      {
-        "type": 375,
-        "amount": 64,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1196677634,
     "locWorld": "PirateCraft_1",
     "locX": -1869,
@@ -87711,6 +87713,29 @@
     "invItems": [
       {
         "type": 297,
+        "amount": 64,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196518947,
+    "locWorld": "PirateCraft_1",
+    "locX": -1703,
+    "locY": 71,
+    "locZ": -413,
+    "ownerName": "GrunkleStank",
+    "ownerUuid": "b4bb773e-977a-4618-81e5-f62ad9e6720a",
+    "signText": [
+      "Eye Of the Spider",
+      "x64"
+    ],
+    "signType": "buy",
+    "signPrice": 8.0,
+    "invItems": [
+      {
+        "type": 375,
         "amount": 64,
         "durability": 0
       }
@@ -88375,7 +88400,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195251175,
@@ -94109,7 +94134,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196720611,
@@ -101282,29 +101307,6 @@
     "invInStock": true
   },
   {
-    "id": -1190327761,
-    "locWorld": "PirateCraft_1",
-    "locX": 4744,
-    "locY": 73,
-    "locZ": -4856,
-    "ownerName": "Azuries",
-    "ownerUuid": "61a503aa-7c56-4d4b-9f07-0e5aa3347ff1",
-    "signText": [
-      "8 Purple Clay",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 5.0,
-    "invItems": [
-      {
-        "type": 159,
-        "amount": 8,
-        "durability": 10
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1196678598,
     "locWorld": "PirateCraft_1",
     "locX": -1870,
@@ -101323,6 +101325,29 @@
         "type": 400,
         "amount": 15,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1190327761,
+    "locWorld": "PirateCraft_1",
+    "locX": 4744,
+    "locY": 73,
+    "locZ": -4856,
+    "ownerName": "Azuries",
+    "ownerUuid": "61a503aa-7c56-4d4b-9f07-0e5aa3347ff1",
+    "signText": [
+      "8 Purple Clay",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 5.0,
+    "invItems": [
+      {
+        "type": 159,
+        "amount": 8,
+        "durability": 10
       }
     ],
     "invInStock": true
@@ -103252,7 +103277,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195723876,
@@ -103706,7 +103731,7 @@
         "durability": 1
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196093319,
@@ -103878,7 +103903,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194628039,
@@ -106106,7 +106131,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1198974834,
@@ -112666,7 +112691,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196651740,
@@ -113743,6 +113768,22 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1193649397,
+    "locWorld": "PirateCraft_1",
+    "locX": 1276,
+    "locY": 66,
+    "locZ": 6473,
+    "ownerName": "wwpl",
+    "ownerUuid": "efb6052b-fa7c-413e-a490-15f01eda2261",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "toggle",
+    "signPrice": 150.0,
+    "invInStock": true
   },
   {
     "id": -1191407494,
