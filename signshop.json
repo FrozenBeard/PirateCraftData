@@ -14470,9 +14470,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie2",
+          "title": "Mogul Mackenzie",
           "generation": "COPY_OF_COPY",
-          "pageCount": 32
+          "pageCount": 50
         }
       },
       {
@@ -14481,9 +14481,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie",
+          "title": "Mogul Mackenzie2",
           "generation": "COPY_OF_COPY",
-          "pageCount": 50
+          "pageCount": 32
         }
       }
     ],
@@ -18039,6 +18039,29 @@
         "type": 35,
         "amount": 16,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196664113,
+    "locWorld": "PirateCraft_1",
+    "locX": -1855,
+    "locY": 68,
+    "locZ": 586,
+    "ownerName": "Buckmaster1993",
+    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
+    "signText": [
+      "CHARCOAL",
+      "200"
+    ],
+    "signType": "buy",
+    "signPrice": 50.0,
+    "invItems": [
+      {
+        "type": 263,
+        "amount": 200,
+        "durability": 1
       }
     ],
     "invInStock": true
@@ -21958,7 +21981,7 @@
     "locX": -1845,
     "locY": 73,
     "locZ": 565,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§b§lSwiftness II",
@@ -25059,7 +25082,7 @@
     "locX": -1843,
     "locY": 69,
     "locZ": 557,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§b§lGodset",
@@ -26292,7 +26315,7 @@
     "locX": -1844,
     "locY": 65,
     "locZ": 561,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§c§lChicken",
@@ -26629,7 +26652,7 @@
     "locX": -1842,
     "locY": 65,
     "locZ": 560,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§2§lEmerald",
@@ -29968,7 +29991,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196718017,
@@ -31586,6 +31609,29 @@
     "invInStock": true
   },
   {
+    "id": -1196943874,
+    "locWorld": "PirateCraft_1",
+    "locX": -2138,
+    "locY": 63,
+    "locZ": -7057,
+    "ownerName": "chang01",
+    "ownerUuid": "aec9afbb-534d-4f3a-9c5f-03c973b51f7a",
+    "signText": [
+      "Puffer Fish",
+      "5"
+    ],
+    "signType": "buy",
+    "signPrice": 7.0,
+    "invItems": [
+      {
+        "type": 349,
+        "amount": 5,
+        "durability": 3
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1201360162,
     "locWorld": "PirateCraft_1",
     "locX": -6733,
@@ -33170,7 +33216,7 @@
     "locX": 3785,
     "locY": 65,
     "locZ": -490,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "",
@@ -37675,7 +37721,7 @@
     "locX": -1840,
     "locY": 69,
     "locZ": 564,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§5§lSteering Stick",
@@ -39978,7 +40024,7 @@
     "locX": 3784,
     "locY": 65,
     "locZ": -490,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "",
@@ -53527,6 +53573,14 @@
     "invItems": [
       {
         "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "Madmant64"
+        }
+      },
+      {
+        "type": 397,
         "amount": 37,
         "durability": 3,
         "meta": {
@@ -53536,11 +53590,41 @@
       },
       {
         "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "DirectorAnivian"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "Kingcrafter2007"
+        }
+      },
+      {
+        "type": 397,
         "amount": 1,
         "durability": 3,
         "meta": {
           "owner": "MrCatSquid"
         }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "bmr312"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 2,
+        "meta": {}
       },
       {
         "type": 397,
@@ -53555,7 +53639,29 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "bmr312"
+          "owner": "iLoveApples"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Ghostlock2213"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Cookie_Chris"
         }
       },
       {
@@ -53568,10 +53674,10 @@
       },
       {
         "type": 397,
-        "amount": 2,
+        "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Ghostlock2213"
+          "owner": "ItzDesire4Eva"
         }
       },
       {
@@ -53579,36 +53685,8 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "iLoveApples"
+          "owner": "SIRHAYDEN12"
         }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "Madmant64"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 2,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 7,
-        "durability": 3,
-        "meta": {
-          "owner": "Reptaria"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
       },
       {
         "type": 397,
@@ -53629,42 +53707,10 @@
       },
       {
         "type": 397,
-        "amount": 2,
+        "amount": 7,
         "durability": 3,
         "meta": {
-          "owner": "DirectorAnivian"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "SIRHAYDEN12"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "Kingcrafter2007"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "Cookie_Chris"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "ItzDesire4Eva"
+          "owner": "Reptaria"
         }
       }
     ],
@@ -54516,7 +54562,7 @@
     "locX": -1841,
     "locY": 69,
     "locZ": 559,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§2§lEnderpearls",
@@ -55469,7 +55515,7 @@
     "locX": -1844,
     "locY": 65,
     "locZ": 562,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§3§lCooked Feesh",
@@ -56496,6 +56542,29 @@
     "invInStock": true
   },
   {
+    "id": -1196662161,
+    "locWorld": "PirateCraft_1",
+    "locX": -1853,
+    "locY": 69,
+    "locZ": 585,
+    "ownerName": "Buckmaster1993",
+    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
+    "signText": [
+      "redstone",
+      "576"
+    ],
+    "signType": "buy",
+    "signPrice": 58.0,
+    "invItems": [
+      {
+        "type": 331,
+        "amount": 576,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1195609267,
     "locWorld": "PirateCraft_1",
     "locX": -755,
@@ -57514,7 +57583,7 @@
         "durability": 11
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1198993838,
@@ -59827,7 +59896,7 @@
     "locX": -1846,
     "locY": 73,
     "locZ": 555,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§d§lHealth II",
@@ -68791,7 +68860,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Frixix"
+          "owner": "louslous"
         }
       },
       {
@@ -68799,7 +68868,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "louslous"
+          "owner": "Frixix"
         }
       }
     ],
@@ -69949,7 +70018,7 @@
     "locX": -1843,
     "locY": 65,
     "locZ": 563,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§b§lDiamond",
@@ -70469,6 +70538,29 @@
         "type": 340,
         "amount": 1,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196944834,
+    "locWorld": "PirateCraft_1",
+    "locX": -2139,
+    "locY": 63,
+    "locZ": -7056,
+    "ownerName": "chang01",
+    "ownerUuid": "aec9afbb-534d-4f3a-9c5f-03c973b51f7a",
+    "signText": [
+      "Smelly Salmon",
+      "10"
+    ],
+    "signType": "buy",
+    "signPrice": 5.0,
+    "invItems": [
+      {
+        "type": 349,
+        "amount": 10,
+        "durability": 1
       }
     ],
     "invInStock": true
@@ -72258,7 +72350,7 @@
         "meta": {}
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1203938457,
@@ -77229,11 +77321,6 @@
     "signPrice": 1.75,
     "invItems": [
       {
-        "type": 6,
-        "amount": 8,
-        "durability": 0
-      },
-      {
         "type": 425,
         "amount": 1,
         "durability": 2,
@@ -77241,6 +77328,11 @@
           "baseColor": "YELLOW",
           "patternCount": 3
         }
+      },
+      {
+        "type": 6,
+        "amount": 8,
+        "durability": 0
       }
     ],
     "invInStock": false
@@ -79745,7 +79837,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195439771,
@@ -80226,6 +80318,23 @@
         "durability": 0
       }
     ],
+    "invInStock": true
+  },
+  {
+    "id": -1201244102,
+    "locWorld": "PirateCraft_1",
+    "locX": -6626,
+    "locY": 69,
+    "locZ": 5497,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "",
+      ""
+    ],
+    "signType": "dispose",
+    "signPrice": 0.0,
+    "invItems": [],
     "invInStock": true
   },
   {
@@ -82264,6 +82373,29 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1196940029,
+    "locWorld": "PirateCraft_1",
+    "locX": -2134,
+    "locY": 63,
+    "locZ": -7056,
+    "ownerName": "chang01",
+    "ownerUuid": "aec9afbb-534d-4f3a-9c5f-03c973b51f7a",
+    "signText": [
+      "Smelly Fish",
+      "5"
+    ],
+    "signType": "buy",
+    "signPrice": 1.0,
+    "invItems": [
+      {
+        "type": 349,
+        "amount": 5,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
   },
   {
     "id": -1194727975,
@@ -84578,7 +84710,7 @@
     "locX": -1844,
     "locY": 65,
     "locZ": 563,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§6§lGolden Potato",
@@ -84968,7 +85100,7 @@
     "locX": -1840,
     "locY": 65,
     "locZ": 561,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§fIron Ingot",
@@ -94106,7 +94238,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196649574,
@@ -94114,7 +94246,7 @@
     "locX": -1840,
     "locY": 73,
     "locZ": 555,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§4§lStrength II",
@@ -95532,7 +95664,7 @@
     "locX": -1844,
     "locY": 69,
     "locZ": 564,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§6§lDiggy Diggy",
@@ -96958,6 +97090,140 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1196753299,
+    "locWorld": "PirateCraft_1",
+    "locX": -1948,
+    "locY": 70,
+    "locZ": 711,
+    "ownerName": "Dark_101",
+    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
+    "signText": [
+      "ONE MYSTERY",
+      "ITEM"
+    ],
+    "signType": "slot",
+    "signPrice": 30.0,
+    "invItems": [
+      {
+        "type": 388,
+        "amount": 2,
+        "durability": 0
+      },
+      {
+        "type": 261,
+        "amount": 1,
+        "durability": 212,
+        "meta": {
+          "enchantments": {
+            "DURABILITY": 2,
+            "ARROW_DAMAGE": 2
+          }
+        }
+      },
+      {
+        "type": 261,
+        "amount": 1,
+        "durability": 263,
+        "meta": {
+          "enchantments": {
+            "DURABILITY": 1
+          }
+        }
+      },
+      {
+        "type": 315,
+        "amount": 1,
+        "durability": 65,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_FIRE": 3,
+            "THORNS": 2,
+            "DURABILITY": 3
+          }
+        }
+      },
+      {
+        "type": 257,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "DIG_SPEED": 2
+          }
+        }
+      },
+      {
+        "type": 261,
+        "amount": 1,
+        "durability": 172,
+        "meta": {
+          "enchantments": {
+            "DURABILITY": 1,
+            "ARROW_DAMAGE": 1
+          }
+        }
+      },
+      {
+        "type": 403,
+        "amount": 2,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "PROTECTION_FALL": 3
+          }
+        }
+      },
+      {
+        "type": 1,
+        "amount": 128,
+        "durability": 0
+      },
+      {
+        "type": 179,
+        "amount": 20,
+        "durability": 0
+      },
+      {
+        "type": 261,
+        "amount": 1,
+        "durability": 198,
+        "meta": {
+          "enchantments": {
+            "ARROW_DAMAGE": 2,
+            "ARROW_KNOCKBACK": 1
+          }
+        }
+      },
+      {
+        "type": 264,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 261,
+        "amount": 1,
+        "durability": 325,
+        "meta": {
+          "enchantments": {
+            "DURABILITY": 1,
+            "ARROW_DAMAGE": 2
+          }
+        }
+      },
+      {
+        "type": 403,
+        "amount": 2,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "ARROW_INFINITE": 1
+          }
+        }
+      }
+    ],
+    "invInStock": true
   },
   {
     "id": -1195189280,
@@ -101601,6 +101867,29 @@
     "invInStock": false
   },
   {
+    "id": -1196755212,
+    "locWorld": "PirateCraft_1",
+    "locX": -1950,
+    "locY": 70,
+    "locZ": 720,
+    "ownerName": "Dark_101",
+    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
+    "signText": [
+      "Black Clay",
+      "x32"
+    ],
+    "signType": "buy",
+    "signPrice": 10.0,
+    "invItems": [
+      {
+        "type": 159,
+        "amount": 32,
+        "durability": 15
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1195863202,
     "locWorld": "PirateCraft_1",
     "locX": -1019,
@@ -103883,7 +104172,7 @@
     "locX": -1843,
     "locY": 73,
     "locZ": 555,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§b§lInvisibility",
@@ -106111,7 +106400,7 @@
     "locX": -1839,
     "locY": 73,
     "locZ": 565,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§6§lFire Resist ",
@@ -112613,7 +112902,7 @@
     "locX": -1844,
     "locY": 65,
     "locZ": 560,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§5§lFresh Bread",
@@ -112699,7 +112988,7 @@
     "locX": -1842,
     "locY": 65,
     "locZ": 559,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§6§lGold Ingot",
@@ -113013,7 +113302,7 @@
     "locX": -1842,
     "locY": 65,
     "locZ": 563,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§9§lLapiz Block",
@@ -113317,7 +113606,7 @@
     "locX": -1840,
     "locY": 65,
     "locZ": 562,
-    "ownerName": "MandaPana",
+    "ownerName": "_Doffy",
     "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
     "signText": [
       "§4§lRedstone",
@@ -113783,6 +114072,7 @@
     ],
     "signType": "toggle",
     "signPrice": 150.0,
+    "invItems": [],
     "invInStock": true
   },
   {
