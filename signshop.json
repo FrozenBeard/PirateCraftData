@@ -5952,6 +5952,29 @@
     "invInStock": true
   },
   {
+    "id": -1196939069,
+    "locWorld": "PirateCraft_1",
+    "locX": -2133,
+    "locY": 63,
+    "locZ": -7057,
+    "ownerName": "chang01",
+    "ownerUuid": "aec9afbb-534d-4f3a-9c5f-03c973b51f7a",
+    "signText": [
+      "Clown Fish",
+      "1"
+    ],
+    "signType": "buy",
+    "signPrice": 0.8,
+    "invItems": [
+      {
+        "type": 349,
+        "amount": 1,
+        "durability": 2
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1196718005,
     "locWorld": "PirateCraft_1",
     "locX": -1911,
@@ -5985,29 +6008,6 @@
         "type": 1,
         "amount": 1,
         "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1196939069,
-    "locWorld": "PirateCraft_1",
-    "locX": -2133,
-    "locY": 63,
-    "locZ": -7057,
-    "ownerName": "chang01",
-    "ownerUuid": "aec9afbb-534d-4f3a-9c5f-03c973b51f7a",
-    "signText": [
-      "Clown Fish",
-      "1"
-    ],
-    "signType": "buy",
-    "signPrice": 0.8,
-    "invItems": [
-      {
-        "type": 349,
-        "amount": 1,
-        "durability": 2
       }
     ],
     "invInStock": true
@@ -6300,7 +6300,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195752492,
@@ -11978,6 +11978,39 @@
     "invInStock": true
   },
   {
+    "id": -1196750554,
+    "locWorld": "PirateCraft_1",
+    "locX": -1945,
+    "locY": 66,
+    "locZ": 697,
+    "ownerName": "Bazurka",
+    "ownerUuid": "c85c3454-890b-4982-a85f-12335ac75d9f",
+    "signText": [
+      "Regular Baz Bow",
+      "A must have"
+    ],
+    "signType": "buy",
+    "signPrice": 400.0,
+    "invItems": [
+      {
+        "type": 261,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "displayName": "Regular Baz Bow",
+          "enchantments": {
+            "DURABILITY": 3,
+            "ARROW_DAMAGE": 5,
+            "ARROW_KNOCKBACK": 2,
+            "ARROW_FIRE": 1,
+            "MENDING": 1
+          }
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1195831140,
     "locWorld": "PirateCraft_1",
     "locX": -989,
@@ -14544,9 +14577,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie2",
+          "title": "Mogul Mackenzie",
           "generation": "COPY_OF_COPY",
-          "pageCount": 32
+          "pageCount": 50
         }
       },
       {
@@ -14555,9 +14588,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie",
+          "title": "Mogul Mackenzie2",
           "generation": "COPY_OF_COPY",
-          "pageCount": 50
+          "pageCount": 32
         }
       }
     ],
@@ -18217,7 +18250,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195247336,
@@ -21500,6 +21533,34 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1196654373,
+    "locWorld": "PirateCraft_1",
+    "locX": -1845,
+    "locY": 73,
+    "locZ": 561,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "§2§lPoison ",
+      "Arrows x8"
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 440,
+        "amount": 8,
+        "durability": 0,
+        "meta": {
+          "type": "POISON",
+          "extended": false,
+          "upgraded": true
+        }
+      }
+    ],
+    "invInStock": true
   },
   {
     "id": -1195158564,
@@ -25438,7 +25499,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "SPEED",
+          "type": "STRENGTH",
           "extended": false,
           "upgraded": true
         }
@@ -25448,7 +25509,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "STRENGTH",
+          "type": "SPEED",
           "extended": false,
           "upgraded": true
         }
@@ -34192,6 +34253,34 @@
     "invInStock": false
   },
   {
+    "id": -1196647643,
+    "locWorld": "PirateCraft_1",
+    "locX": -1838,
+    "locY": 73,
+    "locZ": 564,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "§2§lPoison 2",
+      "Splash"
+    ],
+    "signType": "buy",
+    "signPrice": 2.0,
+    "invItems": [
+      {
+        "type": 438,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "POISON",
+          "extended": false,
+          "upgraded": true
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1194693254,
     "locWorld": "PirateCraft_1",
     "locX": 199,
@@ -37007,6 +37096,34 @@
         "type": 129,
         "amount": 1,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196647647,
+    "locWorld": "PirateCraft_1",
+    "locX": -1838,
+    "locY": 73,
+    "locZ": 560,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "§2§lPoison 2",
+      "Lingering x1"
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 441,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "POISON",
+          "extended": false,
+          "upgraded": true
+        }
       }
     ],
     "invInStock": true
@@ -46441,7 +46558,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195039509,
@@ -49898,6 +50015,34 @@
         "type": 57,
         "amount": 1,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196654372,
+    "locWorld": "PirateCraft_1",
+    "locX": -1845,
+    "locY": 73,
+    "locZ": 562,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "§7§lWeakness",
+      "Arrows x8"
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 440,
+        "amount": 8,
+        "durability": 0,
+        "meta": {
+          "type": "WEAKNESS",
+          "extended": true,
+          "upgraded": false
+        }
       }
     ],
     "invInStock": true
@@ -53831,55 +53976,10 @@
     "invItems": [
       {
         "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "SIRHAYDEN12"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "ItzDesire4Eva"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 61,
-        "durability": 3,
-        "meta": {
-          "displayName": "§rPig Zombie Head",
-          "owner": "MHF_PigZombie"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 2,
-        "meta": {}
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 0,
-        "meta": {}
-      },
-      {
-        "type": 397,
         "amount": 2,
         "durability": 3,
         "meta": {
-          "owner": "Cookie_Chris"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 7,
-        "durability": 3,
-        "meta": {
-          "owner": "Reptaria"
+          "owner": "Ghostlock2213"
         }
       },
       {
@@ -53887,7 +53987,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Madmant64"
+          "owner": "MrCatSquid"
         }
       },
       {
@@ -53900,14 +54000,6 @@
       },
       {
         "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "DirectorAnivian"
-        }
-      },
-      {
-        "type": 397,
         "amount": 1,
         "durability": 3,
         "meta": {
@@ -53916,10 +54008,31 @@
       },
       {
         "type": 397,
+        "amount": 2,
+        "durability": 2,
+        "meta": {}
+      },
+      {
+        "type": 397,
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "MrCatSquid"
+          "owner": "iLoveApples"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 0,
+        "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 61,
+        "durability": 3,
+        "meta": {
+          "displayName": "§rPig Zombie Head",
+          "owner": "MHF_PigZombie"
         }
       },
       {
@@ -53937,6 +54050,30 @@
         "durability": 3,
         "meta": {
           "owner": "FTB_player123"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Cookie_Chris"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "SIRHAYDEN12"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "ItzDesire4Eva"
         }
       },
       {
@@ -53960,7 +54097,15 @@
         "amount": 2,
         "durability": 3,
         "meta": {
-          "owner": "Ghostlock2213"
+          "owner": "DirectorAnivian"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 7,
+        "durability": 3,
+        "meta": {
+          "owner": "Reptaria"
         }
       },
       {
@@ -53968,7 +54113,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "iLoveApples"
+          "owner": "Madmant64"
         }
       }
     ],
@@ -54554,16 +54699,16 @@
     "ownerName": "bloatedhippo",
     "ownerUuid": "a4eeecd0-6c13-4f19-8cc6-f8ee69eff129",
     "signText": [
-      "16 Lapis Lazuli",
-      ""
+      "1 lapis lazuli",
+      "block ._."
     ],
     "signType": "buy",
-    "signPrice": 12.0,
+    "signPrice": 3.5,
     "invItems": [
       {
-        "type": 351,
-        "amount": 16,
-        "durability": 4
+        "type": 22,
+        "amount": 1,
+        "durability": 0
       }
     ],
     "invInStock": true
@@ -57217,7 +57362,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195162377,
@@ -58917,39 +59062,6 @@
     "invInStock": true
   },
   {
-    "id": -1196754434,
-    "locWorld": "PirateCraft_1",
-    "locX": -1949,
-    "locY": 65,
-    "locZ": 692,
-    "ownerName": "Bazurka",
-    "ownerUuid": "c85c3454-890b-4982-a85f-12335ac75d9f",
-    "signText": [
-      "Baz Bow - Infinity",
-      "Never runs out!"
-    ],
-    "signType": "buy",
-    "signPrice": 400.0,
-    "invItems": [
-      {
-        "type": 261,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "displayName": "Baz\u0027 Bow of Infinity",
-          "enchantments": {
-            "DURABILITY": 3,
-            "ARROW_DAMAGE": 5,
-            "ARROW_KNOCKBACK": 2,
-            "ARROW_FIRE": 1,
-            "ARROW_INFINITE": 1
-          }
-        }
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1194833878,
     "locWorld": "PirateCraft_1",
     "locX": 50,
@@ -60213,7 +60325,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1187745687,
@@ -60839,7 +60951,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195591775,
@@ -64891,15 +65003,15 @@
     "ownerName": "bloatedhippo",
     "ownerUuid": "a4eeecd0-6c13-4f19-8cc6-f8ee69eff129",
     "signText": [
-      "16 Shinnnyyy",
-      "Gold Bars :D!"
+      "1 Shinnyyy Gold",
+      "Bar :D!"
     ],
     "signType": "buy",
-    "signPrice": 100.0,
+    "signPrice": 4.0,
     "invItems": [
       {
         "type": 266,
-        "amount": 16,
+        "amount": 1,
         "durability": 0
       }
     ],
@@ -66094,6 +66206,34 @@
     "signType": "device",
     "signPrice": 1000.0,
     "invItems": [],
+    "invInStock": true
+  },
+  {
+    "id": -1196651486,
+    "locWorld": "PirateCraft_1",
+    "locX": -1842,
+    "locY": 73,
+    "locZ": 565,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "§4§lHarming 2",
+      "Splash"
+    ],
+    "signType": "buy",
+    "signPrice": 2.0,
+    "invItems": [
+      {
+        "type": 438,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "INSTANT_DAMAGE",
+          "extended": false,
+          "upgraded": true
+        }
+      }
+    ],
     "invInStock": true
   },
   {
@@ -69200,7 +69340,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Frixix"
+          "owner": "louslous"
         }
       },
       {
@@ -69208,7 +69348,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "louslous"
+          "owner": "Frixix"
         }
       }
     ],
@@ -77192,7 +77332,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1189785004,
@@ -77700,6 +77840,11 @@
     "signPrice": 1.75,
     "invItems": [
       {
+        "type": 6,
+        "amount": 8,
+        "durability": 0
+      },
+      {
         "type": 425,
         "amount": 1,
         "durability": 2,
@@ -77707,11 +77852,6 @@
           "baseColor": "YELLOW",
           "patternCount": 3
         }
-      },
-      {
-        "type": 6,
-        "amount": 8,
-        "durability": 0
       }
     ],
     "invInStock": false
@@ -80168,6 +80308,34 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1196654371,
+    "locWorld": "PirateCraft_1",
+    "locX": -1845,
+    "locY": 73,
+    "locZ": 563,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "§4§l Harming 2",
+      "Arrows x8"
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 440,
+        "amount": 8,
+        "durability": 0,
+        "meta": {
+          "type": "INSTANT_DAMAGE",
+          "extended": false,
+          "upgraded": true
+        }
+      }
+    ],
+    "invInStock": true
   },
   {
     "id": -1195170015,
@@ -84650,7 +84818,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1201782334,
@@ -90242,6 +90410,39 @@
     "invInStock": true
   },
   {
+    "id": -1196750585,
+    "locWorld": "PirateCraft_1",
+    "locX": -1945,
+    "locY": 65,
+    "locZ": 697,
+    "ownerName": "Bazurka",
+    "ownerUuid": "c85c3454-890b-4982-a85f-12335ac75d9f",
+    "signText": [
+      "BazBow of Infinity",
+      "Never run out !"
+    ],
+    "signType": "buy",
+    "signPrice": 400.0,
+    "invItems": [
+      {
+        "type": 261,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "displayName": "Baz\u0027 Bow of Infinity",
+          "enchantments": {
+            "DURABILITY": 3,
+            "ARROW_DAMAGE": 5,
+            "ARROW_KNOCKBACK": 2,
+            "ARROW_FIRE": 1,
+            "ARROW_INFINITE": 1
+          }
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1190299016,
     "locWorld": "PirateCraft_1",
     "locX": 4774,
@@ -92488,6 +92689,34 @@
         "type": 329,
         "amount": 1,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196647645,
+    "locWorld": "PirateCraft_1",
+    "locX": -1838,
+    "locY": 73,
+    "locZ": 562,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "§4§l Harming 2",
+      "Lingering x1"
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 441,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "INSTANT_DAMAGE",
+          "extended": false,
+          "upgraded": true
+        }
       }
     ],
     "invInStock": true
@@ -97517,16 +97746,6 @@
         "durability": 0
       },
       {
-        "type": 403,
-        "amount": 2,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "ARROW_INFINITE": 1
-          }
-        }
-      },
-      {
         "type": 261,
         "amount": 1,
         "durability": 212,
@@ -97566,6 +97785,16 @@
         "meta": {
           "enchantments": {
             "DIG_SPEED": 2
+          }
+        }
+      },
+      {
+        "type": 403,
+        "amount": 2,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "ARROW_INFINITE": 1
           }
         }
       },
@@ -103527,39 +103756,6 @@
     "invInStock": true
   },
   {
-    "id": -1196753473,
-    "locWorld": "PirateCraft_1",
-    "locX": -1948,
-    "locY": 65,
-    "locZ": 692,
-    "ownerName": "Bazurka",
-    "ownerUuid": "c85c3454-890b-4982-a85f-12335ac75d9f",
-    "signText": [
-      "Baz Bow -Mending",
-      "Liked by Legolas"
-    ],
-    "signType": "buy",
-    "signPrice": 400.0,
-    "invItems": [
-      {
-        "type": 261,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "displayName": "Regular Baz Bow",
-          "enchantments": {
-            "DURABILITY": 3,
-            "ARROW_DAMAGE": 5,
-            "ARROW_KNOCKBACK": 2,
-            "ARROW_FIRE": 1,
-            "MENDING": 1
-          }
-        }
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1198293630,
     "locWorld": "PirateCraft_1",
     "locX": -3551,
@@ -104721,7 +104917,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1194628039,
@@ -107458,7 +107654,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196713877,
@@ -108333,6 +108529,34 @@
     "invInStock": false
   },
   {
+    "id": -1196654374,
+    "locWorld": "PirateCraft_1",
+    "locX": -1845,
+    "locY": 73,
+    "locZ": 560,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "§8§lSlowness",
+      "Arrows x8"
+    ],
+    "signType": "buy",
+    "signPrice": 3.0,
+    "invItems": [
+      {
+        "type": 440,
+        "amount": 8,
+        "durability": 0,
+        "meta": {
+          "type": "SLOWNESS",
+          "extended": false,
+          "upgraded": false
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1193486633,
     "locWorld": "PirateCraft_1",
     "locX": 1455,
@@ -109065,6 +109289,29 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1196654370,
+    "locWorld": "PirateCraft_1",
+    "locX": -1845,
+    "locY": 73,
+    "locZ": 564,
+    "ownerName": "_Doffy",
+    "ownerUuid": "88f42806-cbbe-4710-841e-4e66a049fc70",
+    "signText": [
+      "§6§lSpectral",
+      "Arrows x8"
+    ],
+    "signType": "buy",
+    "signPrice": 4.0,
+    "invItems": [
+      {
+        "type": 439,
+        "amount": 8,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
   },
   {
     "id": -1194629961,
