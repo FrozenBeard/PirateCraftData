@@ -14248,9 +14248,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie2",
+          "title": "Mogul Mackenzie",
           "generation": "COPY_OF_COPY",
-          "pageCount": 32
+          "pageCount": 50
         }
       },
       {
@@ -14259,9 +14259,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie",
+          "title": "Mogul Mackenzie2",
           "generation": "COPY_OF_COPY",
-          "pageCount": 50
+          "pageCount": 32
         }
       }
     ],
@@ -16862,29 +16862,6 @@
     "invInStock": false
   },
   {
-    "id": -1195037464,
-    "locWorld": "PirateCraft_1",
-    "locX": -161,
-    "locY": 68,
-    "locZ": -699,
-    "ownerName": "OdinGungnir",
-    "ownerUuid": "f1a0afc0-9cf7-48f4-91c2-b58ad324bb63",
-    "signText": [
-      "Mushroom soup",
-      "3"
-    ],
-    "signType": "buy",
-    "signPrice": 2.0,
-    "invItems": [
-      {
-        "type": 282,
-        "amount": 3,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1197558896,
     "locWorld": "PirateCraft_1",
     "locX": -2783,
@@ -19474,7 +19451,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1198885248,
@@ -20794,7 +20771,9 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "power": 0
+          "displayName": "Angry Creeper",
+          "power": 1,
+          "effectCount": 2
         }
       },
       {
@@ -20802,9 +20781,7 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "displayName": "Angry Creeper",
-          "power": 1,
-          "effectCount": 2
+          "power": 0
         }
       }
     ],
@@ -25056,7 +25033,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "SPEED",
+          "type": "STRENGTH",
           "extended": false,
           "upgraded": true
         }
@@ -25066,7 +25043,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "STRENGTH",
+          "type": "SPEED",
           "extended": false,
           "upgraded": true
         }
@@ -26043,7 +26020,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1201782336,
@@ -31876,23 +31853,6 @@
     "invInStock": true
   },
   {
-    "id": -1195036564,
-    "locWorld": "PirateCraft_1",
-    "locX": -160,
-    "locY": 63,
-    "locZ": -605,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "dhow",
-      "for sale "
-    ],
-    "signType": "deviceon",
-    "signPrice": 20.0,
-    "invItems": [],
-    "invInStock": true
-  },
-  {
     "id": -1196692077,
     "locWorld": "PirateCraft_1",
     "locX": -1884,
@@ -34752,23 +34712,6 @@
         }
       }
     ],
-    "invInStock": true
-  },
-  {
-    "id": -1195036584,
-    "locWorld": "PirateCraft_1",
-    "locX": -160,
-    "locY": 63,
-    "locZ": -625,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "dhow",
-      "for sale"
-    ],
-    "signType": "deviceon",
-    "signPrice": 20.0,
-    "invItems": [],
     "invInStock": true
   },
   {
@@ -45081,7 +45024,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194726032,
@@ -45576,23 +45519,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1195039509,
-    "locWorld": "PirateCraft_1",
-    "locX": -163,
-    "locY": 61,
-    "locZ": -605,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "",
-      ""
-    ],
-    "signType": "toggle",
-    "signPrice": 2.0,
-    "invItems": [],
-    "invInStock": true
   },
   {
     "id": -1190375603,
@@ -51673,29 +51599,6 @@
     "invInStock": false
   },
   {
-    "id": -1195095830,
-    "locWorld": "PirateCraft_1",
-    "locX": -222,
-    "locY": 73,
-    "locZ": -599,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "Baked Potato",
-      "x16"
-    ],
-    "signType": "buy",
-    "signPrice": 4.0,
-    "invItems": [
-      {
-        "type": 393,
-        "amount": 16,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1190730161,
     "locWorld": "PirateCraft_1",
     "locX": 4323,
@@ -53075,9 +52978,11 @@
     "invItems": [
       {
         "type": 397,
-        "amount": 2,
-        "durability": 2,
-        "meta": {}
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "SIRHAYDEN12"
+        }
       },
       {
         "type": 397,
@@ -53090,18 +52995,8 @@
       {
         "type": 397,
         "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "Cookie_Chris"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "SIRHAYDEN12"
-        }
+        "durability": 2,
+        "meta": {}
       },
       {
         "type": 397,
@@ -53111,11 +53006,10 @@
       },
       {
         "type": 397,
-        "amount": 37,
+        "amount": 2,
         "durability": 3,
         "meta": {
-          "displayName": "§rCave Spider Head",
-          "owner": "MHF_CaveSpider"
+          "owner": "Cookie_Chris"
         }
       },
       {
@@ -53131,7 +53025,64 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "iLoveApples"
+          "owner": "Madmant64"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "_PigGuardian_"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "Kingcrafter2007"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "MrCatSquid"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "FTB_player123"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 37,
+        "durability": 3,
+        "meta": {
+          "displayName": "§rCave Spider Head",
+          "owner": "MHF_CaveSpider"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "DirectorAnivian"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "LebroNation"
         }
       },
       {
@@ -53148,15 +53099,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "MrCatSquid"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "DirectorAnivian"
+          "owner": "iLoveApples"
         }
       },
       {
@@ -53172,47 +53115,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "_PigGuardian_"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "Madmant64"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "Kingcrafter2007"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "LebroNation"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
           "owner": "bmr312"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "FTB_player123"
         }
       }
     ],
@@ -54321,29 +54224,6 @@
       {
         "type": 200,
         "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1195093908,
-    "locWorld": "PirateCraft_1",
-    "locX": -220,
-    "locY": 73,
-    "locZ": -599,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "Baked Potato",
-      "x16"
-    ],
-    "signType": "sell",
-    "signPrice": 1.0,
-    "invItems": [
-      {
-        "type": 393,
-        "amount": 16,
         "durability": 0
       }
     ],
@@ -62372,7 +62252,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1201796719,
@@ -63395,7 +63275,7 @@
         "durability": 1
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195241518,
@@ -68822,7 +68702,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1198083935,
@@ -71720,23 +71600,6 @@
     ],
     "signType": "device",
     "signPrice": 10.0,
-    "invItems": [],
-    "invInStock": true
-  },
-  {
-    "id": -1195041454,
-    "locWorld": "PirateCraft_1",
-    "locX": -165,
-    "locY": 61,
-    "locZ": -628,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "",
-      ""
-    ],
-    "signType": "toggle",
-    "signPrice": 2.0,
     "invItems": [],
     "invInStock": true
   },
@@ -75713,34 +75576,6 @@
       {
         "type": 297,
         "amount": 16,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1195062523,
-    "locWorld": "PirateCraft_1",
-    "locX": -187,
-    "locY": 64,
-    "locZ": -648,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "96 Cobble 1 Lava",
-      "for 64 Stone"
-    ],
-    "signType": "trade",
-    "signPrice": 1.0,
-    "invItems": [
-      {
-        "type": 325,
-        "amount": 1,
-        "durability": 0
-      },
-      {
-        "type": 1,
-        "amount": 64,
         "durability": 0
       }
     ],
@@ -80467,7 +80302,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194643418,
@@ -85226,7 +85061,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196699567,
@@ -87380,29 +87215,6 @@
     "invInStock": false
   },
   {
-    "id": -1195059659,
-    "locWorld": "PirateCraft_1",
-    "locX": -184,
-    "locY": 63,
-    "locZ": -636,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "Bread",
-      "x3"
-    ],
-    "signType": "buy",
-    "signPrice": 1.0,
-    "invItems": [
-      {
-        "type": 297,
-        "amount": 3,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1194619721,
     "locWorld": "PirateCraft_1",
     "locX": 280,
@@ -89150,23 +88962,6 @@
     ],
     "signType": "device",
     "signPrice": 0.0,
-    "invItems": [],
-    "invInStock": true
-  },
-  {
-    "id": -1195036566,
-    "locWorld": "PirateCraft_1",
-    "locX": -160,
-    "locY": 63,
-    "locZ": -607,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "dhow",
-      "for sale"
-    ],
-    "signType": "deviceon",
-    "signPrice": 20.0,
     "invItems": [],
     "invInStock": true
   },
@@ -92517,29 +92312,6 @@
     "invInStock": true
   },
   {
-    "id": -1195058698,
-    "locWorld": "PirateCraft_1",
-    "locX": -183,
-    "locY": 63,
-    "locZ": -636,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "Baked Potato",
-      "x5"
-    ],
-    "signType": "buy",
-    "signPrice": 1.25,
-    "invItems": [
-      {
-        "type": 393,
-        "amount": 5,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1200573099,
     "locWorld": "PirateCraft_1",
     "locX": -5926,
@@ -92624,23 +92396,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1195036586,
-    "locWorld": "PirateCraft_1",
-    "locX": -160,
-    "locY": 63,
-    "locZ": -627,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "dhow",
-      "for sale"
-    ],
-    "signType": "deviceon",
-    "signPrice": 20.0,
-    "invItems": [],
-    "invInStock": true
   },
   {
     "id": -1190319111,
@@ -106963,7 +106718,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1191065475,
@@ -107901,29 +107656,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1195095828,
-    "locWorld": "PirateCraft_1",
-    "locX": -222,
-    "locY": 73,
-    "locZ": -597,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "Cooked Fish",
-      "x16"
-    ],
-    "signType": "buy",
-    "signPrice": 4.0,
-    "invItems": [
-      {
-        "type": 350,
-        "amount": 16,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1194619719,
@@ -111880,29 +111612,6 @@
     "invInStock": false
   },
   {
-    "id": -1195037459,
-    "locWorld": "PirateCraft_1",
-    "locX": -161,
-    "locY": 68,
-    "locZ": -694,
-    "ownerName": "OdinGungnir",
-    "ownerUuid": "f1a0afc0-9cf7-48f4-91c2-b58ad324bb63",
-    "signText": [
-      "Bread",
-      "4"
-    ],
-    "signType": "buy",
-    "signPrice": 2.0,
-    "invItems": [
-      {
-        "type": 297,
-        "amount": 4,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1198086033,
     "locWorld": "PirateCraft_1",
     "locX": -3333,
@@ -113733,29 +113442,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1195093906,
-    "locWorld": "PirateCraft_1",
-    "locX": -220,
-    "locY": 73,
-    "locZ": -597,
-    "ownerName": "Ashimto",
-    "ownerUuid": "1f19adac-224e-4d6d-8c77-ace44f71f2c5",
-    "signText": [
-      "Cooked Fish",
-      "x16"
-    ],
-    "signType": "sell",
-    "signPrice": 0.5,
-    "invItems": [
-      {
-        "type": 350,
-        "amount": 16,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1201790022,
