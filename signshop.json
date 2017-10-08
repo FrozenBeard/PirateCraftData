@@ -691,7 +691,7 @@
         "durability": 8
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196680423,
@@ -6796,7 +6796,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1194663765,
@@ -6880,18 +6880,18 @@
     "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
     "signText": [
       "64 ARROWS",
-      ""
+      "*great price!*"
     ],
     "signType": "buy",
-    "signPrice": 2.0,
+    "signPrice": 3.5,
     "invItems": [
       {
         "type": 262,
-        "amount": 64,
+        "amount": 62,
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196694958,
@@ -11425,6 +11425,29 @@
     "invInStock": true
   },
   {
+    "id": -1195641163,
+    "locWorld": "PirateCraft_1",
+    "locX": -797,
+    "locY": 70,
+    "locZ": 6736,
+    "ownerName": "__plant",
+    "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
+    "signText": [
+      "16 wheat seeds",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 0.5,
+    "invItems": [
+      {
+        "type": 295,
+        "amount": 16,
+        "durability": 0
+      }
+    ],
+    "invInStock": false
+  },
+  {
     "id": -1195605533,
     "locWorld": "PirateCraft_1",
     "locX": -751,
@@ -12951,29 +12974,6 @@
       {
         "type": 364,
         "amount": 16,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
-    "id": -1196663121,
-    "locWorld": "PirateCraft_1",
-    "locX": -1854,
-    "locY": 69,
-    "locZ": 586,
-    "ownerName": "Buckmaster1993",
-    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
-    "signText": [
-      "STONE",
-      "576"
-    ],
-    "signType": "buy",
-    "signPrice": 15.0,
-    "invItems": [
-      {
-        "type": 1,
-        "amount": 576,
         "durability": 0
       }
     ],
@@ -17761,29 +17761,6 @@
     "invInStock": true
   },
   {
-    "id": -1196664113,
-    "locWorld": "PirateCraft_1",
-    "locX": -1855,
-    "locY": 68,
-    "locZ": 586,
-    "ownerName": "Buckmaster1993",
-    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
-    "signText": [
-      "CHARCOAL",
-      "200"
-    ],
-    "signType": "buy",
-    "signPrice": 50.0,
-    "invItems": [
-      {
-        "type": 263,
-        "amount": 200,
-        "durability": 1
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1195247336,
     "locWorld": "PirateCraft_1",
     "locX": -372,
@@ -20908,29 +20885,6 @@
     "invInStock": true
   },
   {
-    "id": -1194599815,
-    "locWorld": "PirateCraft_1",
-    "locX": 296,
-    "locY": 78,
-    "locZ": -2537,
-    "ownerName": "Markusi13",
-    "ownerUuid": "1eec9efe-c984-43fe-83ee-86c170517556",
-    "signText": [
-      "1 Quartz Block",
-      "§oStay Classy"
-    ],
-    "signType": "buy",
-    "signPrice": 3.5,
-    "invItems": [
-      {
-        "type": 155,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1196673814,
     "locWorld": "PirateCraft_1",
     "locX": -1865,
@@ -20967,6 +20921,29 @@
       }
     ],
     "invInStock": true
+  },
+  {
+    "id": -1194599815,
+    "locWorld": "PirateCraft_1",
+    "locX": 296,
+    "locY": 78,
+    "locZ": -2537,
+    "ownerName": "Markusi13",
+    "ownerUuid": "1eec9efe-c984-43fe-83ee-86c170517556",
+    "signText": [
+      "1 Quartz Block",
+      "§oStay Classy"
+    ],
+    "signType": "buy",
+    "signPrice": 3.5,
+    "invItems": [
+      {
+        "type": 155,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": false
   },
   {
     "id": -1196771405,
@@ -21798,6 +21775,44 @@
     "invInStock": false
   },
   {
+    "id": -1196668051,
+    "locWorld": "PirateCraft_1",
+    "locX": -1859,
+    "locY": 66,
+    "locZ": 554,
+    "ownerName": "__plant",
+    "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
+    "signText": [
+      "Full Diamond",
+      "armour kit"
+    ],
+    "signType": "buy",
+    "signPrice": 345.0,
+    "invItems": [
+      {
+        "type": 312,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 311,
+        "amount": 1,
+        "durability": 10
+      },
+      {
+        "type": 313,
+        "amount": 1,
+        "durability": 0
+      },
+      {
+        "type": 310,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1196230504,
     "locWorld": "PirateCraft_1",
     "locX": -1404,
@@ -21838,44 +21853,6 @@
     "signType": "toggle",
     "signPrice": 150.0,
     "invItems": [],
-    "invInStock": true
-  },
-  {
-    "id": -1196668051,
-    "locWorld": "PirateCraft_1",
-    "locX": -1859,
-    "locY": 66,
-    "locZ": 554,
-    "ownerName": "__plant",
-    "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
-    "signText": [
-      "Full Diamond",
-      "armour kit"
-    ],
-    "signType": "buy",
-    "signPrice": 345.0,
-    "invItems": [
-      {
-        "type": 312,
-        "amount": 1,
-        "durability": 0
-      },
-      {
-        "type": 311,
-        "amount": 1,
-        "durability": 10
-      },
-      {
-        "type": 313,
-        "amount": 1,
-        "durability": 0
-      },
-      {
-        "type": 310,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
     "invInStock": true
   },
   {
@@ -25033,7 +25010,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "STRENGTH",
+          "type": "SPEED",
           "extended": false,
           "upgraded": true
         }
@@ -25043,7 +25020,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "SPEED",
+          "type": "STRENGTH",
           "extended": false,
           "upgraded": true
         }
@@ -26238,7 +26215,7 @@
         "durability": 7
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194746300,
@@ -26733,7 +26710,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195050916,
@@ -27223,10 +27200,10 @@
     "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
     "signText": [
       "Sharpness I",
-      ""
+      "book"
     ],
     "signType": "buy",
-    "signPrice": 30.0,
+    "signPrice": 15.0,
     "invItems": [
       {
         "type": 403,
@@ -30651,40 +30628,6 @@
     "invInStock": false
   },
   {
-    "id": -1196750587,
-    "locWorld": "PirateCraft_1",
-    "locX": -1945,
-    "locY": 65,
-    "locZ": 695,
-    "ownerName": "CaptainReef",
-    "ownerUuid": "db23431a-b9dd-4acb-a91c-f69d6a889b9b",
-    "signText": [
-      "Ultimate BazBow",
-      "1.10 Mend/Infinity"
-    ],
-    "signType": "buy",
-    "signPrice": 1499.99,
-    "invItems": [
-      {
-        "type": 261,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "displayName": "The Ultimate BazBow",
-          "enchantments": {
-            "DURABILITY": 3,
-            "ARROW_DAMAGE": 5,
-            "ARROW_KNOCKBACK": 2,
-            "ARROW_FIRE": 1,
-            "ARROW_INFINITE": 1,
-            "MENDING": 1
-          }
-        }
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1194682816,
     "locWorld": "PirateCraft_1",
     "locX": 210,
@@ -30731,6 +30674,40 @@
         "type": 213,
         "amount": 16,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196750587,
+    "locWorld": "PirateCraft_1",
+    "locX": -1945,
+    "locY": 65,
+    "locZ": 695,
+    "ownerName": "Bazurka",
+    "ownerUuid": "c85c3454-890b-4982-a85f-12335ac75d9f",
+    "signText": [
+      "Ultimate BazBow",
+      "1.10 Mend/Infinity"
+    ],
+    "signType": "buy",
+    "signPrice": 1499.99,
+    "invItems": [
+      {
+        "type": 261,
+        "amount": 2,
+        "durability": 0,
+        "meta": {
+          "displayName": "The Ultimate BazBow",
+          "enchantments": {
+            "DURABILITY": 3,
+            "ARROW_DAMAGE": 5,
+            "ARROW_KNOCKBACK": 2,
+            "ARROW_FIRE": 1,
+            "ARROW_INFINITE": 1,
+            "MENDING": 1
+          }
+        }
       }
     ],
     "invInStock": true
@@ -33126,7 +33103,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196698614,
@@ -35678,10 +35655,10 @@
     "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
     "signText": [
       "Projectile",
-      "Protection I"
+      "Protection"
     ],
     "signType": "buy",
-    "signPrice": 30.0,
+    "signPrice": 15.0,
     "invItems": [
       {
         "type": 403,
@@ -35694,7 +35671,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196686047,
@@ -39945,7 +39922,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1198002248,
@@ -45488,29 +45465,6 @@
     "invInStock": false
   },
   {
-    "id": -1196662195,
-    "locWorld": "PirateCraft_1",
-    "locX": -1853,
-    "locY": 68,
-    "locZ": 582,
-    "ownerName": "Buckmaster1993",
-    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
-    "signText": [
-      "ANDISITE",
-      "128"
-    ],
-    "signType": "buy",
-    "signPrice": 8.0,
-    "invItems": [
-      {
-        "type": 1,
-        "amount": 128,
-        "durability": 5
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1194634760,
     "locWorld": "PirateCraft_1",
     "locX": 260,
@@ -46129,29 +46083,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196662191,
-    "locWorld": "PirateCraft_1",
-    "locX": -1853,
-    "locY": 68,
-    "locZ": 586,
-    "ownerName": "Buckmaster1993",
-    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
-    "signText": [
-      "COAL",
-      "200"
-    ],
-    "signType": "buy",
-    "signPrice": 60.0,
-    "invItems": [
-      {
-        "type": 263,
-        "amount": 200,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1195247344,
@@ -46892,7 +46823,7 @@
       "§8§lStone"
     ],
     "signType": "buy",
-    "signPrice": 1.5,
+    "signPrice": 2.0,
     "invItems": [
       {
         "type": 4,
@@ -48713,7 +48644,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194732811,
@@ -52562,6 +52493,29 @@
     "invInStock": true
   },
   {
+    "id": -1192227026,
+    "locWorld": "PirateCraft_1",
+    "locX": 2765,
+    "locY": 72,
+    "locZ": -2271,
+    "ownerName": "King_Borisino",
+    "ownerUuid": "f2e34c6c-0479-4313-996b-77ea29cdb7b8",
+    "signText": [
+      "restaurant alleen",
+      "kopen!!!"
+    ],
+    "signType": "buy",
+    "signPrice": 0.07,
+    "invItems": [
+      {
+        "type": 297,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": false
+  },
+  {
     "id": -1196752539,
     "locWorld": "PirateCraft_1",
     "locX": -1947,
@@ -52633,30 +52587,7 @@
         }
       }
     ],
-    "invInStock": false
-  },
-  {
-    "id": -1192227026,
-    "locWorld": "PirateCraft_1",
-    "locX": 2765,
-    "locY": 72,
-    "locZ": -2271,
-    "ownerName": "King_Borisino",
-    "ownerUuid": "f2e34c6c-0479-4313-996b-77ea29cdb7b8",
-    "signText": [
-      "restaurant alleen",
-      "kopen!!!"
-    ],
-    "signType": "buy",
-    "signPrice": 0.07,
-    "invItems": [
-      {
-        "type": 297,
-        "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195744649,
@@ -52922,26 +52853,10 @@
     "invItems": [
       {
         "type": 397,
-        "amount": 1,
+        "amount": 7,
         "durability": 3,
         "meta": {
-          "owner": "SIRHAYDEN12"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "bmr312"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "iLoveApples"
+          "owner": "Reptaria"
         }
       },
       {
@@ -52954,25 +52869,17 @@
       },
       {
         "type": 397,
-        "amount": 2,
-        "durability": 2,
-        "meta": {}
-      },
-      {
-        "type": 397,
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "_PigGuardian_"
+          "owner": "ItzDesire4Eva"
         }
       },
       {
         "type": 397,
         "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "DirectorAnivian"
-        }
+        "durability": 2,
+        "meta": {}
       },
       {
         "type": 397,
@@ -52986,8 +52893,48 @@
       {
         "type": 397,
         "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "MrCatSquid"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
         "durability": 0,
         "meta": {}
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "Kingcrafter2007"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "SIRHAYDEN12"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Cookie_Chris"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "_PigGuardian_"
+        }
       },
       {
         "type": 397,
@@ -53003,39 +52950,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Madmant64"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "Kingcrafter2007"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "MrCatSquid"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 7,
-        "durability": 3,
-        "meta": {
-          "owner": "Reptaria"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "Cookie_Chris"
+          "owner": "bmr312"
         }
       },
       {
@@ -53048,10 +52963,10 @@
       },
       {
         "type": 397,
-        "amount": 1,
+        "amount": 2,
         "durability": 3,
         "meta": {
-          "owner": "FTB_player123"
+          "owner": "DirectorAnivian"
         }
       },
       {
@@ -53059,7 +52974,23 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "ItzDesire4Eva"
+          "owner": "Madmant64"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "iLoveApples"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "FTB_player123"
         }
       }
     ],
@@ -54741,7 +54672,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1190364102,
@@ -55704,29 +55635,6 @@
       {
         "type": 266,
         "amount": 1,
-        "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1196662161,
-    "locWorld": "PirateCraft_1",
-    "locX": -1853,
-    "locY": 69,
-    "locZ": 585,
-    "ownerName": "Buckmaster1993",
-    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
-    "signText": [
-      "redstone",
-      "576"
-    ],
-    "signType": "buy",
-    "signPrice": 58.0,
-    "invItems": [
-      {
-        "type": 331,
-        "amount": 576,
         "durability": 0
       }
     ],
@@ -64432,7 +64340,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195890888,
@@ -66261,7 +66169,7 @@
         }
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196713062,
@@ -67545,7 +67453,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "Frixix"
+          "owner": "louslous"
         }
       },
       {
@@ -67553,7 +67461,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "louslous"
+          "owner": "Frixix"
         }
       }
     ],
@@ -71835,7 +71743,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195620832,
@@ -74443,29 +74351,6 @@
     "invInStock": true
   },
   {
-    "id": -1196664115,
-    "locWorld": "PirateCraft_1",
-    "locX": -1855,
-    "locY": 68,
-    "locZ": 584,
-    "ownerName": "Buckmaster1993",
-    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
-    "signText": [
-      "GRAVEL",
-      "128"
-    ],
-    "signType": "buy",
-    "signPrice": 3.5,
-    "invItems": [
-      {
-        "type": 13,
-        "amount": 128,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1192403701,
     "locWorld": "PirateCraft_1",
     "locX": 2579,
@@ -74487,29 +74372,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196662194,
-    "locWorld": "PirateCraft_1",
-    "locX": -1853,
-    "locY": 68,
-    "locZ": 583,
-    "ownerName": "Buckmaster1993",
-    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
-    "signText": [
-      "DIORITE",
-      "128"
-    ],
-    "signType": "buy",
-    "signPrice": 8.0,
-    "invItems": [
-      {
-        "type": 1,
-        "amount": 128,
-        "durability": 3
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1190294140,
@@ -76216,7 +76078,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195607374,
@@ -77530,7 +77392,7 @@
         "durability": 1
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196701684,
@@ -78330,34 +78192,6 @@
     "invInStock": false
   },
   {
-    "id": -1196671891,
-    "locWorld": "PirateCraft_1",
-    "locX": -1863,
-    "locY": 66,
-    "locZ": 558,
-    "ownerName": "__plant",
-    "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
-    "signText": [
-      "Power I",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 30.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "ARROW_DAMAGE": 1
-          }
-        }
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1191496697,
     "locWorld": "PirateCraft_1",
     "locX": 3526,
@@ -78378,6 +78212,34 @@
         "durability": 0,
         "meta": {
           "displayName": "Rare Potato"
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196671891,
+    "locWorld": "PirateCraft_1",
+    "locX": -1863,
+    "locY": 66,
+    "locZ": 558,
+    "ownerName": "__plant",
+    "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
+    "signText": [
+      "Power I",
+      "Book"
+    ],
+    "signType": "buy",
+    "signPrice": 15.0,
+    "invItems": [
+      {
+        "type": 403,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "ARROW_DAMAGE": 1
+          }
         }
       }
     ],
@@ -79652,7 +79514,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195168114,
@@ -80605,29 +80467,6 @@
     "invInStock": true
   },
   {
-    "id": -1196664083,
-    "locWorld": "PirateCraft_1",
-    "locX": -1855,
-    "locY": 69,
-    "locZ": 585,
-    "ownerName": "Buckmaster1993",
-    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
-    "signText": [
-      "SANDSTONE",
-      "576"
-    ],
-    "signType": "buy",
-    "signPrice": 10.0,
-    "invItems": [
-      {
-        "type": 24,
-        "amount": 576,
-        "durability": 0
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1199380386,
     "locWorld": "PirateCraft_1",
     "locX": -4682,
@@ -81554,7 +81393,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1191539657,
@@ -82524,6 +82363,29 @@
     "invInStock": false
   },
   {
+    "id": -1196679551,
+    "locWorld": "PirateCraft_1",
+    "locX": -1871,
+    "locY": 67,
+    "locZ": 555,
+    "ownerName": "huangR",
+    "ownerUuid": "5aec056c-2433-49f9-85d9-2b3e91acde88",
+    "signText": [
+      "cookie",
+      "0.01"
+    ],
+    "signType": "buy",
+    "signPrice": 0.0,
+    "invItems": [
+      {
+        "type": 357,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1195245373,
     "locWorld": "PirateCraft_1",
     "locX": -370,
@@ -82795,7 +82657,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196484130,
@@ -83225,7 +83087,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195158757,
@@ -84657,7 +84519,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1193488546,
@@ -86628,7 +86490,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195251175,
@@ -87903,6 +87765,29 @@
     "invInStock": true
   },
   {
+    "id": -1196659298,
+    "locWorld": "PirateCraft_1",
+    "locX": -1850,
+    "locY": 68,
+    "locZ": 596,
+    "ownerName": "PythonAce",
+    "ownerUuid": "f1518830-0d3b-4776-824f-acd614e74a49",
+    "signText": [
+      "Packed Ice",
+      "x16"
+    ],
+    "signType": "buy",
+    "signPrice": 10.0,
+    "invItems": [
+      {
+        "type": 174,
+        "amount": 16,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1196750585,
     "locWorld": "PirateCraft_1",
     "locX": -1945,
@@ -87931,29 +87816,6 @@
             "ARROW_INFINITE": 1
           }
         }
-      }
-    ],
-    "invInStock": false
-  },
-  {
-    "id": -1196659298,
-    "locWorld": "PirateCraft_1",
-    "locX": -1850,
-    "locY": 68,
-    "locZ": 596,
-    "ownerName": "PythonAce",
-    "ownerUuid": "f1518830-0d3b-4776-824f-acd614e74a49",
-    "signText": [
-      "Packed Ice",
-      "x16"
-    ],
-    "signType": "buy",
-    "signPrice": 10.0,
-    "invItems": [
-      {
-        "type": 174,
-        "amount": 16,
-        "durability": 0
       }
     ],
     "invInStock": true
@@ -90124,7 +89986,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1190383409,
@@ -90451,7 +90313,7 @@
       ""
     ],
     "signType": "buy",
-    "signPrice": 2.5,
+    "signPrice": 3.0,
     "invItems": [
       {
         "type": 1,
@@ -90459,7 +90321,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195245395,
@@ -92584,11 +92446,11 @@
     "ownerName": "__plant",
     "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
     "signText": [
-      "1 Guardian Head",
-      ""
+      "GUARDIAN HEAD",
+      "freshly killed"
     ],
     "signType": "buy",
-    "signPrice": 8.0,
+    "signPrice": 3.75,
     "invItems": [
       {
         "type": 397,
@@ -93772,15 +93634,14 @@
     "locX": -1649,
     "locY": 77,
     "locZ": -328,
-    "ownerName": "gildor_stinky",
-    "ownerUuid": "48a44335-a8d4-4f46-9b93-c175f9676075",
+    "ownerName": "Petalface",
+    "ownerUuid": "30b49ad8-a759-4737-b7d5-a241b224d4cd",
     "signText": [
       "Floor",
-      ""
+      "}\u003d--{(00}-\u003d\u003d{"
     ],
     "signType": "device",
     "signPrice": 1000.0,
-    "invItems": [],
     "invInStock": true
   },
   {
@@ -93955,7 +93816,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196431563,
@@ -95888,6 +95749,29 @@
     "invInStock": true
   },
   {
+    "id": -1195878500,
+    "locWorld": "PirateCraft_1",
+    "locX": -1034,
+    "locY": 35,
+    "locZ": -1759,
+    "ownerName": "SmokinSoldier",
+    "ownerUuid": "20b89f1e-21fa-4c1d-9699-e228fec2eb81",
+    "signText": [
+      "Emerald",
+      "x1"
+    ],
+    "signType": "sell",
+    "signPrice": 1.0,
+    "invItems": [
+      {
+        "type": 388,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1196751579,
     "locWorld": "PirateCraft_1",
     "locX": -1946,
@@ -95957,29 +95841,6 @@
             "MENDING": 1
           }
         }
-      }
-    ],
-    "invInStock": false
-  },
-  {
-    "id": -1195878500,
-    "locWorld": "PirateCraft_1",
-    "locX": -1034,
-    "locY": 35,
-    "locZ": -1759,
-    "ownerName": "SmokinSoldier",
-    "ownerUuid": "20b89f1e-21fa-4c1d-9699-e228fec2eb81",
-    "signText": [
-      "Emerald",
-      "x1"
-    ],
-    "signType": "sell",
-    "signPrice": 1.0,
-    "invItems": [
-      {
-        "type": 388,
-        "amount": 1,
-        "durability": 0
       }
     ],
     "invInStock": true
@@ -97492,6 +97353,29 @@
     "invItems": [
       {
         "type": 388,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1196676669,
+    "locWorld": "PirateCraft_1",
+    "locX": -1868,
+    "locY": 67,
+    "locZ": 554,
+    "ownerName": "huangR",
+    "ownerUuid": "5aec056c-2433-49f9-85d9-2b3e91acde88",
+    "signText": [
+      "1 blaze rod",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 0.5,
+    "invItems": [
+      {
+        "type": 369,
         "amount": 1,
         "durability": 0
       }
@@ -102956,29 +102840,6 @@
     "invInStock": true
   },
   {
-    "id": -1196662193,
-    "locWorld": "PirateCraft_1",
-    "locX": -1853,
-    "locY": 68,
-    "locZ": 584,
-    "ownerName": "Buckmaster1993",
-    "ownerUuid": "873481a1-229b-48ca-bd02-af34505f47fa",
-    "signText": [
-      "GRANITE",
-      "128"
-    ],
-    "signType": "buy",
-    "signPrice": 8.0,
-    "invItems": [
-      {
-        "type": 1,
-        "amount": 128,
-        "durability": 1
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1195521539,
     "locWorld": "PirateCraft_1",
     "locX": -670,
@@ -106407,34 +106268,6 @@
     "invInStock": true
   },
   {
-    "id": -1196669969,
-    "locWorld": "PirateCraft_1",
-    "locX": -1861,
-    "locY": 66,
-    "locZ": 558,
-    "ownerName": "__plant",
-    "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
-    "signText": [
-      "Efficiency I",
-      "Book"
-    ],
-    "signType": "buy",
-    "signPrice": 28.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "DIG_SPEED": 1
-          }
-        }
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1191065475,
     "locWorld": "PirateCraft_1",
     "locX": 3975,
@@ -106479,6 +106312,34 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1196669969,
+    "locWorld": "PirateCraft_1",
+    "locX": -1861,
+    "locY": 66,
+    "locZ": 558,
+    "ownerName": "__plant",
+    "ownerUuid": "9ac9aca4-fe28-474f-9aa9-d6bc955cef8b",
+    "signText": [
+      "Efficency I",
+      "book"
+    ],
+    "signType": "buy",
+    "signPrice": 15.0,
+    "invItems": [
+      {
+        "type": 403,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "enchantments": {
+            "DIG_SPEED": 1
+          }
+        }
+      }
+    ],
+    "invInStock": true
   },
   {
     "id": -1196698707,
@@ -110505,7 +110366,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196718635,
@@ -111474,7 +111335,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1194619989,
@@ -112706,7 +112567,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196442843,
@@ -113362,6 +113223,29 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1196679552,
+    "locWorld": "PirateCraft_1",
+    "locX": -1871,
+    "locY": 67,
+    "locZ": 554,
+    "ownerName": "huangR",
+    "ownerUuid": "5aec056c-2433-49f9-85d9-2b3e91acde88",
+    "signText": [
+      "1 backed",
+      "potato"
+    ],
+    "signType": "buy",
+    "signPrice": 0.5,
+    "invItems": [
+      {
+        "type": 393,
+        "amount": 1,
+        "durability": 0
+      }
+    ],
+    "invInStock": true
   },
   {
     "id": -1196517025,
