@@ -686,7 +686,7 @@
         "durability": 8
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1196680423,
@@ -2190,34 +2190,6 @@
       }
     ],
     "invInStock": true
-  },
-  {
-    "id": -1196760203,
-    "locWorld": "PirateCraft_1",
-    "locX": -1955,
-    "locY": 65,
-    "locZ": 689,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Efficiency V",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 130.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "DIG_SPEED": 5
-          }
-        }
-      }
-    ],
-    "invInStock": false
   },
   {
     "id": -1190375591,
@@ -8615,7 +8587,7 @@
         "durability": 0
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1201789991,
@@ -11280,7 +11252,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196097195,
@@ -12425,34 +12397,6 @@
       }
     ],
     "invInStock": true
-  },
-  {
-    "id": -1196764049,
-    "locWorld": "PirateCraft_1",
-    "locX": -1959,
-    "locY": 65,
-    "locZ": 687,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Sharpness V",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 120.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "DAMAGE_ALL": 5
-          }
-        }
-      }
-    ],
-    "invInStock": false
   },
   {
     "id": -1196516068,
@@ -14205,9 +14149,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie2",
+          "title": "Mogul Mackenzie",
           "generation": "COPY_OF_COPY",
-          "pageCount": 32
+          "pageCount": 50
         }
       },
       {
@@ -14216,9 +14160,9 @@
         "durability": 0,
         "meta": {
           "author": "ae0",
-          "title": "Mogul Mackenzie",
+          "title": "Mogul Mackenzie2",
           "generation": "COPY_OF_COPY",
-          "pageCount": 50
+          "pageCount": 32
         }
       }
     ],
@@ -16035,7 +15979,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1191959489,
@@ -16066,7 +16010,7 @@
     "locX": -9786,
     "locY": 47,
     "locZ": -3140,
-    "ownerName": "XxX_Player1_XxX",
+    "ownerName": "Jammin_Mas",
     "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
     "signText": [
       "waterbottle",
@@ -16903,34 +16847,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196761164,
-    "locWorld": "PirateCraft_1",
-    "locX": -1956,
-    "locY": 65,
-    "locZ": 689,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Fortune III",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 70.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "LOOT_BONUS_BLOCKS": 3
-          }
-        }
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1194147578,
@@ -19357,7 +19273,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194599337,
@@ -20746,9 +20662,7 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "displayName": "Angry Creeper",
-          "power": 1,
-          "effectCount": 2
+          "power": 0
         }
       },
       {
@@ -20756,7 +20670,9 @@
         "amount": 32,
         "durability": 0,
         "meta": {
-          "power": 0
+          "displayName": "Angry Creeper",
+          "power": 1,
+          "effectCount": 2
         }
       }
     ],
@@ -23116,7 +23032,7 @@
     "locX": -9790,
     "locY": 47,
     "locZ": -3136,
-    "ownerName": "XxX_Player1_XxX",
+    "ownerName": "Jammin_Mas",
     "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
     "signText": [
       "waterbottle",
@@ -25030,7 +24946,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "STRENGTH",
+          "type": "SPEED",
           "extended": false,
           "upgraded": true
         }
@@ -25040,7 +24956,7 @@
         "amount": 1,
         "durability": 0,
         "meta": {
-          "type": "SPEED",
+          "type": "STRENGTH",
           "extended": false,
           "upgraded": true
         }
@@ -26235,7 +26151,7 @@
         "durability": 7
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1194746300,
@@ -26785,34 +26701,6 @@
     "invInStock": true
   },
   {
-    "id": -1196765010,
-    "locWorld": "PirateCraft_1",
-    "locX": -1960,
-    "locY": 65,
-    "locZ": 687,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Fire Aspect II",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 85.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "FIRE_ASPECT": 2
-          }
-        }
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1197047812,
     "locWorld": "PirateCraft_1",
     "locX": -2255,
@@ -27132,34 +27020,6 @@
         "type": 19,
         "amount": 1,
         "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1196766927,
-    "locWorld": "PirateCraft_1",
-    "locX": -1962,
-    "locY": 65,
-    "locZ": 692,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Infinity",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 70.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "ARROW_INFINITE": 1
-          }
-        }
       }
     ],
     "invInStock": true
@@ -28173,7 +28033,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195608413,
@@ -31385,34 +31245,6 @@
     "invInStock": false
   },
   {
-    "id": -1196764046,
-    "locWorld": "PirateCraft_1",
-    "locX": -1959,
-    "locY": 65,
-    "locZ": 690,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Unbreaking III",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 85.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "DURABILITY": 3
-          }
-        }
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1195601496,
     "locWorld": "PirateCraft_1",
     "locX": -747,
@@ -31434,34 +31266,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196762125,
-    "locWorld": "PirateCraft_1",
-    "locX": -1957,
-    "locY": 65,
-    "locZ": 689,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Silk Touch",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 70.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "SILK_TOUCH": 1
-          }
-        }
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1192114120,
@@ -33066,6 +32870,34 @@
         "type": 264,
         "amount": 1,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1204316816,
+    "locWorld": "PirateCraft_1",
+    "locX": -9814,
+    "locY": 55,
+    "locZ": -3115,
+    "ownerName": "Jammin_Mas",
+    "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
+    "signText": [
+      "waterbottle",
+      "health"
+    ],
+    "signType": "sell",
+    "signPrice": 100.0,
+    "invItems": [
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "WATER",
+          "extended": false,
+          "upgraded": false
+        }
       }
     ],
     "invInStock": true
@@ -36746,7 +36578,7 @@
     "locX": -9787,
     "locY": 63,
     "locZ": -3052,
-    "ownerName": "XxX_Player1_XxX",
+    "ownerName": "Jammin_Mas",
     "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
     "signText": [
       "Open Gate Be ye",
@@ -40506,34 +40338,6 @@
     "invInStock": true
   },
   {
-    "id": -1196765971,
-    "locWorld": "PirateCraft_1",
-    "locX": -1961,
-    "locY": 65,
-    "locZ": 687,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Knockback II",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 80.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "KNOCKBACK": 2
-          }
-        }
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1196438041,
     "locWorld": "PirateCraft_1",
     "locX": -1619,
@@ -43658,7 +43462,7 @@
     "locX": -9786,
     "locY": 47,
     "locZ": -3136,
-    "ownerName": "XxX_Player1_XxX",
+    "ownerName": "Jammin_Mas",
     "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
     "signText": [
       "waterbottle",
@@ -44940,6 +44744,34 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1204316846,
+    "locWorld": "PirateCraft_1",
+    "locX": -9814,
+    "locY": 54,
+    "locZ": -3114,
+    "ownerName": "Jammin_Mas",
+    "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
+    "signText": [
+      "waterbottle",
+      "speed"
+    ],
+    "signType": "sell",
+    "signPrice": 100.0,
+    "invItems": [
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "WATER",
+          "extended": false,
+          "upgraded": false
+        }
+      }
+    ],
+    "invInStock": true
   },
   {
     "id": -1190941212,
@@ -48752,6 +48584,7 @@
     ],
     "signType": "device",
     "signPrice": 0.0,
+    "invItems": [],
     "invInStock": true
   },
   {
@@ -50876,7 +50709,7 @@
     "locX": -9787,
     "locY": 48,
     "locZ": -3138,
-    "ownerName": "XxX_Player1_XxX",
+    "ownerName": "Jammin_Mas",
     "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
     "signText": [
       "Waterbottle",
@@ -52780,18 +52613,20 @@
     "invItems": [
       {
         "type": 397,
-        "amount": 2,
+        "amount": 37,
         "durability": 3,
         "meta": {
-          "owner": "Cookie_Chris"
+          "displayName": "§rCave Spider Head",
+          "owner": "MHF_CaveSpider"
         }
       },
       {
         "type": 397,
-        "amount": 7,
+        "amount": 61,
         "durability": 3,
         "meta": {
-          "owner": "Reptaria"
+          "displayName": "§rPig Zombie Head",
+          "owner": "MHF_PigZombie"
         }
       },
       {
@@ -52799,7 +52634,15 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "ItzDesire4Eva"
+          "owner": "MrCatSquid"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "DirectorAnivian"
         }
       },
       {
@@ -52808,6 +52651,14 @@
         "durability": 3,
         "meta": {
           "owner": "Madmant64"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 2,
+        "durability": 3,
+        "meta": {
+          "owner": "Ghostlock2213"
         }
       },
       {
@@ -52832,10 +52683,10 @@
       },
       {
         "type": 397,
-        "amount": 1,
+        "amount": 2,
         "durability": 3,
         "meta": {
-          "owner": "SIRHAYDEN12"
+          "owner": "LebroNation"
         }
       },
       {
@@ -52848,22 +52699,6 @@
       },
       {
         "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "LebroNation"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 2,
-        "durability": 3,
-        "meta": {
-          "owner": "Ghostlock2213"
-        }
-      },
-      {
-        "type": 397,
         "amount": 1,
         "durability": 3,
         "meta": {
@@ -52872,10 +52707,26 @@
       },
       {
         "type": 397,
+        "amount": 1,
+        "durability": 3,
+        "meta": {
+          "owner": "ItzDesire4Eva"
+        }
+      },
+      {
+        "type": 397,
         "amount": 2,
         "durability": 3,
         "meta": {
-          "owner": "DirectorAnivian"
+          "owner": "Cookie_Chris"
+        }
+      },
+      {
+        "type": 397,
+        "amount": 7,
+        "durability": 3,
+        "meta": {
+          "owner": "Reptaria"
         }
       },
       {
@@ -52883,24 +52734,7 @@
         "amount": 1,
         "durability": 3,
         "meta": {
-          "owner": "_PigGuardian_"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 1,
-        "durability": 3,
-        "meta": {
-          "owner": "MrCatSquid"
-        }
-      },
-      {
-        "type": 397,
-        "amount": 61,
-        "durability": 3,
-        "meta": {
-          "displayName": "§rPig Zombie Head",
-          "owner": "MHF_PigZombie"
+          "owner": "SIRHAYDEN12"
         }
       },
       {
@@ -52913,11 +52747,10 @@
       },
       {
         "type": 397,
-        "amount": 37,
+        "amount": 1,
         "durability": 3,
         "meta": {
-          "displayName": "§rCave Spider Head",
-          "owner": "MHF_CaveSpider"
+          "owner": "_PigGuardian_"
         }
       }
     ],
@@ -55145,34 +54978,6 @@
         "type": 391,
         "amount": 64,
         "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1196766930,
-    "locWorld": "PirateCraft_1",
-    "locX": -1962,
-    "locY": 65,
-    "locZ": 689,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Power V",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 130.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "ARROW_DAMAGE": 5
-          }
-        }
       }
     ],
     "invInStock": true
@@ -59014,34 +58819,6 @@
     "invInStock": true
   },
   {
-    "id": -1196760205,
-    "locWorld": "PirateCraft_1",
-    "locX": -1955,
-    "locY": 65,
-    "locZ": 687,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Protection IV",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 135.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "PROTECTION_ENVIRONMENTAL": 4
-          }
-        }
-      }
-    ],
-    "invInStock": false
-  },
-  {
     "id": -1194633797,
     "locWorld": "PirateCraft_1",
     "locX": 261,
@@ -62557,7 +62334,7 @@
         }
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1194661697,
@@ -62976,7 +62753,7 @@
         "durability": 1
       }
     ],
-    "invInStock": false
+    "invInStock": true
   },
   {
     "id": -1195241518,
@@ -66697,7 +66474,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196033106,
@@ -68211,34 +67988,6 @@
     "invInStock": false
   },
   {
-    "id": -1196767893,
-    "locWorld": "PirateCraft_1",
-    "locX": -1963,
-    "locY": 65,
-    "locZ": 687,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Smite V",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 200.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "DAMAGE_UNDEAD": 5
-          }
-        }
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1199640595,
     "locWorld": "PirateCraft_1",
     "locX": -4951,
@@ -69745,6 +69494,34 @@
           "colorR": 160,
           "colorG": 101,
           "colorB": 64
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1204304990,
+    "locWorld": "PirateCraft_1",
+    "locX": -9802,
+    "locY": 65,
+    "locZ": -3131,
+    "ownerName": "Jammin_Mas",
+    "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
+    "signText": [
+      "Health pots",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 3.5,
+    "invItems": [
+      {
+        "type": 438,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "INSTANT_HEAL",
+          "extended": false,
+          "upgraded": true
         }
       }
     ],
@@ -72399,7 +72176,7 @@
         "durability": 1
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196366302,
@@ -73439,34 +73216,6 @@
     "signPrice": 20.0,
     "invItems": [],
     "invInStock": true
-  },
-  {
-    "id": -1196761166,
-    "locWorld": "PirateCraft_1",
-    "locX": -1956,
-    "locY": 65,
-    "locZ": 687,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Thorns III",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 100.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "THORNS": 3
-          }
-        }
-      }
-    ],
-    "invInStock": false
   },
   {
     "id": -1196913212,
@@ -82506,6 +82255,34 @@
     "invInStock": false
   },
   {
+    "id": -1204305952,
+    "locWorld": "PirateCraft_1",
+    "locX": -9803,
+    "locY": 65,
+    "locZ": -3132,
+    "ownerName": "Jammin_Mas",
+    "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
+    "signText": [
+      "spd",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 3.5,
+    "invItems": [
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "SPEED",
+          "extended": false,
+          "upgraded": true
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1196489031,
     "locWorld": "PirateCraft_1",
     "locX": -1675,
@@ -82733,7 +82510,7 @@
     "locX": 3826,
     "locY": 72,
     "locZ": -6592,
-    "ownerName": "XxX_Player1_XxX",
+    "ownerName": "Jammin_Mas",
     "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
     "signText": [
       "Open Gate be ye",
@@ -83457,34 +83234,6 @@
         "type": 349,
         "amount": 4,
         "durability": 0
-      }
-    ],
-    "invInStock": true
-  },
-  {
-    "id": -1196766929,
-    "locWorld": "PirateCraft_1",
-    "locX": -1962,
-    "locY": 65,
-    "locZ": 690,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Punch II",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 80.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "ARROW_KNOCKBACK": 2
-          }
-        }
       }
     ],
     "invInStock": true
@@ -84545,7 +84294,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195158562,
@@ -89825,7 +89574,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1196716074,
@@ -92384,7 +92133,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1952327535,
@@ -93347,6 +93096,34 @@
       }
     ],
     "invInStock": false
+  },
+  {
+    "id": -1204304030,
+    "locWorld": "PirateCraft_1",
+    "locX": -9801,
+    "locY": 65,
+    "locZ": -3132,
+    "ownerName": "Jammin_Mas",
+    "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
+    "signText": [
+      "str",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 3.5,
+    "invItems": [
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "STRENGTH",
+          "extended": false,
+          "upgraded": true
+        }
+      }
+    ],
+    "invInStock": true
   },
   {
     "id": -1199576788,
@@ -94630,6 +94407,29 @@
     "invInStock": true
   },
   {
+    "id": -1191819395,
+    "locWorld": "PirateCraft_1",
+    "locX": 3179,
+    "locY": 69,
+    "locZ": 7599,
+    "ownerName": "LouisBT14",
+    "ownerUuid": "a511e711-1dd9-47d5-b5a2-ce3f7aab3fd7",
+    "signText": [
+      "Prismarine",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 1.0,
+    "invItems": [
+      {
+        "type": 168,
+        "amount": 1,
+        "durability": 1
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1190297094,
     "locWorld": "PirateCraft_1",
     "locX": 4776,
@@ -94656,29 +94456,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1191819395,
-    "locWorld": "PirateCraft_1",
-    "locX": 3179,
-    "locY": 69,
-    "locZ": 7599,
-    "ownerName": "LouisBT14",
-    "ownerUuid": "a511e711-1dd9-47d5-b5a2-ce3f7aab3fd7",
-    "signText": [
-      "Prismarine",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 1.0,
-    "invItems": [
-      {
-        "type": 168,
-        "amount": 1,
-        "durability": 1
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1195005462,
@@ -97130,6 +96907,34 @@
     "invInStock": true
   },
   {
+    "id": -1204316815,
+    "locWorld": "PirateCraft_1",
+    "locX": -9814,
+    "locY": 55,
+    "locZ": -3114,
+    "ownerName": "Jammin_Mas",
+    "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
+    "signText": [
+      "Waterbottle",
+      "fireres"
+    ],
+    "signType": "sell",
+    "signPrice": 100.0,
+    "invItems": [
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "WATER",
+          "extended": false,
+          "upgraded": false
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1196523945,
     "locWorld": "PirateCraft_1",
     "locX": -1708,
@@ -98368,34 +98173,6 @@
       }
     ],
     "invInStock": false
-  },
-  {
-    "id": -1196762127,
-    "locWorld": "PirateCraft_1",
-    "locX": -1957,
-    "locY": 65,
-    "locZ": 687,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Aqua Affinity",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 70.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "WATER_WORKER": 1
-          }
-        }
-      }
-    ],
-    "invInStock": true
   },
   {
     "id": -1201361123,
@@ -99720,7 +99497,7 @@
         "durability": 11
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195117222,
@@ -101512,7 +101289,7 @@
     "locX": -9802,
     "locY": 64,
     "locZ": -3098,
-    "ownerName": "XxX_Player1_XxX",
+    "ownerName": "Jammin_Mas",
     "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
     "signText": [
       "Open Gate be ye ",
@@ -101562,34 +101339,6 @@
       }
     ],
     "invInStock": true
-  },
-  {
-    "id": -1196763086,
-    "locWorld": "PirateCraft_1",
-    "locX": -1958,
-    "locY": 65,
-    "locZ": 689,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Mending",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 80.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "MENDING": 1
-          }
-        }
-      }
-    ],
-    "invInStock": false
   },
   {
     "id": -1191659326,
@@ -104288,7 +104037,7 @@
         "durability": 0
       }
     ],
-    "invInStock": true
+    "invInStock": false
   },
   {
     "id": -1195876560,
@@ -105798,6 +105547,11 @@
     "signPrice": 200.0,
     "invItems": [
       {
+        "type": 88,
+        "amount": 4,
+        "durability": 0
+      },
+      {
         "type": 397,
         "amount": 3,
         "durability": 3,
@@ -105805,11 +105559,6 @@
           "displayName": "wither skeleton skull",
           "owner": "MHF_Enderman"
         }
-      },
-      {
-        "type": 88,
-        "amount": 4,
-        "durability": 0
       }
     ],
     "invInStock": true
@@ -107241,7 +106990,7 @@
     "locX": -9790,
     "locY": 47,
     "locZ": -3140,
-    "ownerName": "XxX_Player1_XxX",
+    "ownerName": "Jammin_Mas",
     "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
     "signText": [
       "waterbottle",
@@ -108977,6 +108726,34 @@
         "type": 391,
         "amount": 64,
         "durability": 0
+      }
+    ],
+    "invInStock": true
+  },
+  {
+    "id": -1204316847,
+    "locWorld": "PirateCraft_1",
+    "locX": -9814,
+    "locY": 54,
+    "locZ": -3115,
+    "ownerName": "Jammin_Mas",
+    "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
+    "signText": [
+      "waterbottle",
+      "str"
+    ],
+    "signType": "sell",
+    "signPrice": 100.0,
+    "invItems": [
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "WATER",
+          "extended": false,
+          "upgraded": false
+        }
       }
     ],
     "invInStock": true
@@ -111109,34 +110886,6 @@
     "invInStock": true
   },
   {
-    "id": -1196766928,
-    "locWorld": "PirateCraft_1",
-    "locX": -1962,
-    "locY": 65,
-    "locZ": 691,
-    "ownerName": "Dark_101",
-    "ownerUuid": "d047d296-1641-4306-b035-e9f6900d238e",
-    "signText": [
-      "Flame",
-      ""
-    ],
-    "signType": "buy",
-    "signPrice": 70.0,
-    "invItems": [
-      {
-        "type": 403,
-        "amount": 1,
-        "durability": 0,
-        "meta": {
-          "enchantments": {
-            "ARROW_FIRE": 1
-          }
-        }
-      }
-    ],
-    "invInStock": true
-  },
-  {
     "id": -1196432417,
     "locWorld": "PirateCraft_1",
     "locX": -1613,
@@ -111674,6 +111423,34 @@
     "invInStock": true
   },
   {
+    "id": -1204304992,
+    "locWorld": "PirateCraft_1",
+    "locX": -9802,
+    "locY": 65,
+    "locZ": -3133,
+    "ownerName": "Jammin_Mas",
+    "ownerUuid": "5492f5e9-18ed-4c8e-9ae0-de53afefc55b",
+    "signText": [
+      "fire res",
+      ""
+    ],
+    "signType": "buy",
+    "signPrice": 3.5,
+    "invItems": [
+      {
+        "type": 373,
+        "amount": 1,
+        "durability": 0,
+        "meta": {
+          "type": "FIRE_RESISTANCE",
+          "extended": true,
+          "upgraded": false
+        }
+      }
+    ],
+    "invInStock": true
+  },
+  {
     "id": -1189115674,
     "locWorld": "PirateCraft_1",
     "locX": 6001,
@@ -111823,6 +111600,23 @@
     "invInStock": true
   },
   {
+    "id": -1201015298,
+    "locWorld": "PirateCraft_1",
+    "locX": -6384,
+    "locY": 17,
+    "locZ": 3351,
+    "ownerName": "The_Network",
+    "ownerUuid": "8a9515fc-3bcc-4638-96ee-ed6c96605298",
+    "signText": [
+      "Toggle",
+      "Water"
+    ],
+    "signType": "device",
+    "signPrice": 0.0,
+    "invItems": [],
+    "invInStock": true
+  },
+  {
     "id": -1200575011,
     "locWorld": "PirateCraft_1",
     "locX": -5928,
@@ -111848,22 +111642,6 @@
         }
       }
     ],
-    "invInStock": true
-  },
-  {
-    "id": -1201015298,
-    "locWorld": "PirateCraft_1",
-    "locX": -6384,
-    "locY": 17,
-    "locZ": 3351,
-    "ownerName": "The_Network",
-    "ownerUuid": "8a9515fc-3bcc-4638-96ee-ed6c96605298",
-    "signText": [
-      "Toggle",
-      "Water"
-    ],
-    "signType": "device",
-    "signPrice": 0.0,
     "invInStock": true
   },
   {
